@@ -2673,7 +2673,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 43.18 54.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 0aab397a-7cb4-4e1c-a0b7-660eecea3d4f)
     (property "Reference" "SW7" (at 43.18 46.99 0)
       (effects (font (size 1.27 1.27)))
@@ -2731,7 +2731,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 256.54 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 131335b2-03ba-4982-b9f8-e3ce6406e9b5)
     (property "Reference" "SW23" (at 256.54 83.82 0)
       (effects (font (size 1.27 1.27)))
@@ -2757,7 +2757,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 267.97 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 135864de-e6a8-432a-961a-c4e656c1d7d1)
     (property "Reference" "D21" (at 276.6061 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2817,7 +2817,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 148.59 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 1600c565-1954-4a04-8e4f-f9da6ccc22d2)
     (property "Reference" "D40" (at 157.2261 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2877,7 +2877,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 81.28 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 18557a91-3888-40f8-a5b2-227263518708)
     (property "Reference" "D13" (at 89.9161 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2905,7 +2905,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 214.63 43.18 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 190e4d98-05c3-4886-ad29-650d374b6457)
     (property "Reference" "D61" (at 217.17 42.545 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2937,7 +2937,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 312.42 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 19b43569-b6d5-480a-800c-785aaf075836)
     (property "Reference" "D23" (at 321.0561 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2965,7 +2965,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 223.52 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 2201940a-2c29-4ed3-9a27-8cd17b08bfbb)
     (property "Reference" "D19" (at 232.1561 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3057,7 +3057,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 82.55 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 28033a34-3995-411e-bcd3-7f4d88793767)
     (property "Reference" "D37" (at 91.1861 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3117,7 +3117,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 93.98 40.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 2b2491a6-2dcc-4e2a-b283-ed31c3ce5e42)
     (property "Reference" "SW6" (at 93.98 33.02 0)
       (effects (font (size 1.27 1.27)))
@@ -3143,7 +3143,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 104.14 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 2ce8d186-5de8-4ddb-bda6-1deff5c38788)
     (property "Reference" "D38" (at 112.7761 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3171,7 +3171,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 289.56 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 2e7aee38-a6a4-4d18-b7c3-ec0017bb35e7)
     (property "Reference" "D22" (at 298.1961 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3199,7 +3199,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 153.67 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 31c3b42c-8283-4ed5-89a3-cd8ae96a5a8a)
     (property "Reference" "SW15" (at 153.67 68.58 0)
       (effects (font (size 1.27 1.27)))
@@ -3225,7 +3225,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 106.68 93.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 334295c3-a260-4fcf-ac3f-5b02c59b45ec)
     (property "Reference" "D56" (at 109.22 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3257,7 +3257,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 264.16 57.15 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 351b0abb-0586-45f8-b6ad-1cc244f6ac8c)
     (property "Reference" "D66" (at 266.7 56.515 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3289,7 +3289,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 154.94 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 3713fe3e-e331-4621-9b0f-6808026ee7b0)
     (property "Reference" "SW21" (at 154.94 83.82 0)
       (effects (font (size 1.27 1.27)))
@@ -3315,7 +3315,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 106.68 80.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3bd9c39f-f3f3-421a-8ad6-bb47c4c9ff31)
     (property "Reference" "D55" (at 109.22 79.375 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3347,7 +3347,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 265.43 80.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3c724f2f-a7ba-47b8-a146-c943c8281ff2)
     (property "Reference" "D67" (at 267.97 79.375 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3379,7 +3379,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 95.25 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 3d13d76c-4319-410c-adc2-74fe92bf8875)
     (property "Reference" "SW20" (at 95.25 83.82 0)
       (effects (font (size 1.27 1.27)))
@@ -3405,7 +3405,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 265.43 93.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3da83c19-a7b9-4e16-ab79-fc8a030df3b5)
     (property "Reference" "D68" (at 267.97 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3437,7 +3437,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Female") (at 379.73 110.49 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 3ea1c92e-835d-48c9-9139-a6215d9fb3b3)
     (property "Reference" "J5" (at 381 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3528,7 +3528,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 127 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 431bf69e-d269-4c1b-a3f2-1c3a6c2b8523)
     (property "Reference" "D39" (at 135.6361 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3556,7 +3556,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 93.98 54.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 43f2a464-323d-45d4-9815-c4e913a1ecb0)
     (property "Reference" "SW8" (at 93.98 46.99 0)
       (effects (font (size 1.27 1.27)))
@@ -3582,7 +3582,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 43.18 40.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 44fd5504-d084-44ca-b736-b82954508c71)
     (property "Reference" "SW5" (at 43.18 33.02 0)
       (effects (font (size 1.27 1.27)))
@@ -3608,7 +3608,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 193.04 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 4754938e-9e35-42e2-ae39-cba57cb70c96)
     (property "Reference" "D42" (at 201.6761 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3636,7 +3636,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 43.18 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 476b20bc-df92-4036-9bdb-c618b8acd4fd)
     (property "Reference" "SW13" (at 43.18 68.58 0)
       (effects (font (size 1.27 1.27)))
@@ -3694,7 +3694,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 203.2 39.37 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 4c08ece1-82de-4a3b-85e9-abe289519645)
     (property "Reference" "SW2" (at 203.2 31.75 0)
       (effects (font (size 1.27 1.27)))
@@ -3752,7 +3752,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 326.39 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 57841b3c-d289-4e91-9489-4e55b05f8835)
     (property "Reference" "D48" (at 335.0261 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3812,7 +3812,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 166.37 80.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e4b47b5-c93e-4c98-ae72-7659b274761b)
     (property "Reference" "D59" (at 168.91 79.375 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3844,7 +3844,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 307.34 54.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 626dff20-7553-45e8-8202-d4917b107399)
     (property "Reference" "SW12" (at 307.34 46.99 0)
       (effects (font (size 1.27 1.27)))
@@ -3870,7 +3870,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 54.61 93.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6404bd83-eabf-4915-aabe-1c1ca6c3b5f5)
     (property "Reference" "D52" (at 57.15 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3966,7 +3966,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 317.5 80.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c8a100e-1635-4956-925e-a1d6bb158aab)
     (property "Reference" "D71" (at 320.04 79.375 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4030,7 +4030,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 255.27 54.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 6fcfd338-cd7e-48f1-be66-8db432af654b)
     (property "Reference" "SW11" (at 255.27 46.99 0)
       (effects (font (size 1.27 1.27)))
@@ -4056,7 +4056,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 213.36 93.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 729e91fe-f618-4bb5-9868-c06c7578cb62)
     (property "Reference" "D64" (at 215.9 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4120,7 +4120,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 153.67 39.37 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 76debf51-ff58-488f-b60b-cbadc50679a8)
     (property "Reference" "SW1" (at 153.67 31.75 0)
       (effects (font (size 1.27 1.27)))
@@ -4146,7 +4146,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 179.07 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 7769aa12-bfbc-4294-9e65-0681f4f20aa2)
     (property "Reference" "D17" (at 187.7061 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4174,7 +4174,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 200.66 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 79ae8856-02c9-41a6-89e5-a44c4ccb724f)
     (property "Reference" "D18" (at 209.2961 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4202,7 +4202,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 203.2 54.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 81acb494-826b-419a-abb1-ba3a10ec7bc2)
     (property "Reference" "SW10" (at 203.2 46.99 0)
       (effects (font (size 1.27 1.27)))
@@ -4228,7 +4228,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 203.2 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 828c5564-31b6-4fae-a800-676ca7373ad8)
     (property "Reference" "SW22" (at 203.2 83.82 0)
       (effects (font (size 1.27 1.27)))
@@ -4254,7 +4254,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Female") (at 379.73 99.06 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 86e9b100-0cb2-4e0a-bfe5-e176a6ebe6f5)
     (property "Reference" "J4" (at 381 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4281,7 +4281,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 165.1 43.18 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 896e6430-aca7-466b-8fc8-9ebbbe85fa58)
     (property "Reference" "D57" (at 167.64 42.545 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4313,7 +4313,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 260.35 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 8b81f94d-d91d-4033-9fc3-9e8dc6025667)
     (property "Reference" "D45" (at 268.9861 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4373,7 +4373,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 307.34 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 98abc732-ee8d-432c-81d2-41a103949785)
     (property "Reference" "SW18" (at 307.34 68.58 0)
       (effects (font (size 1.27 1.27)))
@@ -4431,7 +4431,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 54.61 58.42 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1831acb-83f2-4e60-bedb-83facd863fde)
     (property "Reference" "D50" (at 57.15 57.785 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4463,7 +4463,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 318.77 57.15 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a2281362-1f32-4be9-ae9a-21f89ab0b093)
     (property "Reference" "D70" (at 321.31 56.515 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4495,7 +4495,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Female") (at 365.76 55.88 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid a43a3629-0581-4a28-b6ed-b6a23369a385)
     (property "Reference" "J2" (at 367.03 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4524,7 +4524,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 304.8 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid a7d45567-370e-488e-9894-45380f1d4815)
     (property "Reference" "D47" (at 313.4361 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4552,7 +4552,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 214.63 57.15 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ab5583f4-4a1c-4c4a-a8ce-eb79d772479e)
     (property "Reference" "D62" (at 217.17 56.515 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4610,7 +4610,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 54.61 80.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aba66de8-e232-4a69-92e4-f4a2e1e486a5)
     (property "Reference" "D51" (at 57.15 79.375 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4642,7 +4642,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 43.18 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid abcb3d6e-1c7a-4f7b-a1b3-5f9307fc1402)
     (property "Reference" "SW19" (at 43.18 83.82 0)
       (effects (font (size 1.27 1.27)))
@@ -4700,7 +4700,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 334.01 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid b9d3b93f-74df-4ac1-84c7-d2658239adc4)
     (property "Reference" "D24" (at 342.6461 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4728,7 +4728,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 54.61 44.45 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bcc00064-8fd0-40ac-b761-dd9d179a2d1b)
     (property "Reference" "D49" (at 57.15 43.815 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4760,7 +4760,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 254 39.37 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid bf2b3e23-4161-4860-8f23-b0bb98aec661)
     (property "Reference" "SW3" (at 254 31.75 0)
       (effects (font (size 1.27 1.27)))
@@ -4786,7 +4786,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 153.67 54.61 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid c2cc244c-05fd-4595-bfa4-5afb84901a1c)
     (property "Reference" "SW9" (at 153.67 46.99 0)
       (effects (font (size 1.27 1.27)))
@@ -4812,7 +4812,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 165.1 57.15 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c2eea582-16bc-4846-9b71-56704fdd6c29)
     (property "Reference" "D58" (at 167.64 56.515 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4844,7 +4844,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 215.9 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid c3f3bf7c-d843-4895-9269-d2cb4810a02d)
     (property "Reference" "D43" (at 224.5361 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4872,7 +4872,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 264.16 43.18 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c52f46df-56ad-4d46-8b4e-b2e78c06e947)
     (property "Reference" "D65" (at 266.7 42.545 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4936,7 +4936,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 318.77 43.18 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c845dfa8-bc51-4b42-bb5e-1e88e6495ab8)
     (property "Reference" "D69" (at 321.31 42.545 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4968,7 +4968,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 49.53 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid ca92ed8e-6db8-4702-a7ee-9004e072e174)
     (property "Reference" "R3" (at 49.53 129.3938 90)
       (effects (font (size 1.27 1.27)))
@@ -5058,7 +5058,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 213.36 80.01 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d3e5d649-a9fd-4042-8248-5397f702be5f)
     (property "Reference" "D63" (at 215.9 79.375 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -5090,7 +5090,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 171.45 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid d5a189e0-92bf-47ec-b4ee-d6b74ef1346f)
     (property "Reference" "D41" (at 180.0861 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5118,7 +5118,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 308.61 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid d64b2934-f457-4b93-a7f4-a560bcf0b76a)
     (property "Reference" "SW24" (at 308.61 83.82 0)
       (effects (font (size 1.27 1.27)))
@@ -5144,12 +5144,12 @@
   )
 
   (symbol (lib_id "Device:C") (at 52.07 179.07 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid d7463601-c700-474e-879a-50af0d9d946f)
     (property "Reference" "C3" (at 54.9911 177.9206 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "C" (at 54.9911 180.2193 0)
+    (property "Value" "C3" (at 54.9911 180.2193 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "custom:C_SOD123" (at 53.0352 182.88 0)
@@ -5170,7 +5170,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 317.5 93.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9893ca7-db60-4617-8101-8a92c0570364)
     (property "Reference" "D72" (at 320.04 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -5202,7 +5202,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 256.54 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid d9e128de-0882-48ea-9c25-ab5d9a81641b)
     (property "Reference" "SW17" (at 256.54 68.58 0)
       (effects (font (size 1.27 1.27)))
@@ -5260,7 +5260,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 125.73 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid dffd493c-f77f-4f04-9435-2773bbb25676)
     (property "Reference" "D15" (at 134.3661 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5320,7 +5320,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Female") (at 365.76 71.12 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid e1dc5849-47a0-4cf0-9b32-f18c80b5ceb3)
     (property "Reference" "J3" (at 367.03 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5350,7 +5350,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 106.68 58.42 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e20fd318-e6ee-4686-9104-2d8e0954a9b9)
     (property "Reference" "D54" (at 109.22 57.785 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -5382,7 +5382,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 307.34 39.37 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid e2fa6d63-ab13-4805-876a-8e231e724fa0)
     (property "Reference" "SW4" (at 307.34 31.75 0)
       (effects (font (size 1.27 1.27)))
@@ -5408,7 +5408,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 148.59 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid e3c33d5d-e36c-44bd-96e2-23e5807c4ef7)
     (property "Reference" "D16" (at 157.2261 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5436,7 +5436,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 203.2 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid e439da9b-9420-48ac-b4b9-ea46f7c61fb0)
     (property "Reference" "SW16" (at 203.2 68.58 0)
       (effects (font (size 1.27 1.27)))
@@ -5494,7 +5494,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 245.11 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid e9d9e251-0fcc-4012-985f-e5d86e66176a)
     (property "Reference" "D20" (at 253.7461 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5522,7 +5522,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 104.14 127 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid ecc8fa32-2c26-496a-a311-99e3c73acc19)
     (property "Reference" "D14" (at 112.7761 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5550,7 +5550,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Female") (at 364.49 29.21 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid ee78fe8c-fb5c-4fdf-aa0b-177539f4ed2a)
     (property "Reference" "J1" (at 365.76 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5580,7 +5580,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 281.94 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid efcd26dc-3fee-4e4a-98be-898d39615983)
     (property "Reference" "D46" (at 290.5761 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5608,7 +5608,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 237.49 173.99 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid f1c5a608-f0a2-4a27-b745-875b8e1780e7)
     (property "Reference" "D44" (at 246.1261 172.8406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5636,7 +5636,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 106.68 44.45 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f42e217a-f464-4d38-a974-9a78897c2f94)
     (property "Reference" "D53" (at 109.22 43.815 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -5668,7 +5668,7 @@
   )
 
   (symbol (lib_id "Diode:1N4148") (at 166.37 93.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5bce610-b2e4-47af-8d1d-2f61860f7868)
     (property "Reference" "D60" (at 168.91 93.345 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -5700,7 +5700,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 95.25 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid ff8eafcf-4364-43bd-85d8-5924af2562e9)
     (property "Reference" "SW14" (at 95.25 68.58 0)
       (effects (font (size 1.27 1.27)))
