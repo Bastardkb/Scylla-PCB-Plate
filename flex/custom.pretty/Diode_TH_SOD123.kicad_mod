@@ -15,6 +15,8 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     (tstamp 17c00074-84b0-410b-a53e-be949bbe0913)
   )
+  (fp_line (start 2.65 -0.5) (end 2.65 0.45)
+    (stroke (width 0.1) (type default)) (layer "B.SilkS") (tstamp c846acde-643f-44dc-8b68-b1acfbbba608))
   (fp_line (start 4.7 -0.4) (end 4.7 0.546341)
     (stroke (width 0.1) (type solid)) (layer "B.SilkS") (tstamp 8f9e278b-b262-4293-b122-af4998985b4e))
   (fp_poly
@@ -25,6 +27,8 @@
     )
 
     (stroke (width 0.1) (type solid)) (fill none) (layer "B.SilkS") (tstamp 0815426a-abd7-481a-aedf-87af8a931334))
+  (fp_line (start 2.65 -0.5) (end 2.65 0.45)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 4d808028-d1bb-42aa-9cfe-9832a0c9ee3b))
   (fp_line (start 4.717073 -0.408537) (end 4.717073 0.537804)
     (stroke (width 0.1) (type solid)) (layer "F.SilkS") (tstamp 59cd0d71-c393-473f-8610-c45ef0ebfbe9))
   (fp_poly
@@ -35,10 +39,10 @@
     )
 
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 67fb0091-0d98-4489-a7d4-a2815dda73f6))
-  (pad "1" thru_hole circle (at 2.85 -0.45) (size 0.5 0.5) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 1c96144d-63ee-48ec-aac6-7c4c66cb73d9))
-  (pad "1" smd rect (at 3.3 0) (size 1.524 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f9d75e75-ec2a-423d-bf00-81ad833c0c49))
-  (pad "1" smd rect (at 3.3 0) (size 1.524 1.524) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e3fbb020-9c55-467c-86de-b1e25a95f61f))
-  (pad "2" smd rect (at 6.7 0) (size 1.524 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 140f30a1-b432-4d2e-b9e5-0271e3b9be17))
-  (pad "2" smd rect (at 6.7 0) (size 1.524 1.524) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 867e94b2-ce82-4697-a10f-841641c0a7c4))
-  (pad "2" thru_hole circle (at 7.15 0.45) (size 0.5 0.5) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 0616ffbd-9464-4b2a-824a-8f96c2bd5d5a))
+  (pad "1" thru_hole circle (at 3.1 -0.35) (size 0.5 0.5) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 1c96144d-63ee-48ec-aac6-7c4c66cb73d9))
+  (pad "1" smd rect (at 3.406 -0.025) (size 1.312 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f9d75e75-ec2a-423d-bf00-81ad833c0c49))
+  (pad "1" smd rect (at 3.406 -0.025) (size 1.312 1.35) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e3fbb020-9c55-467c-86de-b1e25a95f61f))
+  (pad "2" smd rect (at 6.594 0) (size 1.312 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 140f30a1-b432-4d2e-b9e5-0271e3b9be17))
+  (pad "2" smd rect (at 6.594 0) (size 1.312 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 867e94b2-ce82-4697-a10f-841641c0a7c4))
+  (pad "2" thru_hole circle (at 6.95 0.4) (size 0.5 0.5) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 0616ffbd-9464-4b2a-824a-8f96c2bd5d5a))
 )
