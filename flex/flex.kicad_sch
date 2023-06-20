@@ -3954,7 +3954,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 148.59 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 090915b8-9ed0-4900-9aff-d95db5283cf1)
     (property "Reference" "D112" (at 157.2261 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4040,7 +4040,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 193.04 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 0f9bd642-568d-452b-8884-99fc1c5282fe)
     (property "Reference" "D114" (at 201.6761 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4094,7 +4094,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 267.97 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 135864de-e6a8-432a-961a-c4e656c1d7d1)
     (property "Reference" "D21" (at 276.6061 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4186,7 +4186,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 148.59 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 1600c565-1954-4a04-8e4f-f9da6ccc22d2)
     (property "Reference" "D40" (at 157.2261 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4246,7 +4246,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 81.28 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 18557a91-3888-40f8-a5b2-227263518708)
     (property "Reference" "D13" (at 89.9161 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4306,7 +4306,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 312.42 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 19b43569-b6d5-480a-800c-785aaf075836)
     (property "Reference" "D23" (at 321.0561 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4334,7 +4334,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 289.56 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 1fdf4330-512d-4fc5-9b2a-5bbee4e24580)
     (property "Reference" "D106" (at 298.1961 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4362,7 +4362,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 223.52 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 2201940a-2c29-4ed3-9a27-8cd17b08bfbb)
     (property "Reference" "D19" (at 232.1561 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4486,7 +4486,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 82.55 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 28033a34-3995-411e-bcd3-7f4d88793767)
     (property "Reference" "D37" (at 91.1861 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4668,7 +4668,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 104.14 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 2ce8d186-5de8-4ddb-bda6-1deff5c38788)
     (property "Reference" "D38" (at 112.7761 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4728,7 +4728,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 289.56 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e7aee38-a6a4-4d18-b7c3-ec0017bb35e7)
     (property "Reference" "D22" (at 298.1961 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4872,7 +4872,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 312.42 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 38565b5d-8e73-493d-a2ae-77ee65ed8198)
     (property "Reference" "D107" (at 321.0561 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5177,7 +5177,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 127 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 431bf69e-d269-4c1b-a3f2-1c3a6c2b8523)
     (property "Reference" "D39" (at 135.6361 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5283,7 +5283,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 193.04 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 4754938e-9e35-42e2-ae39-cba57cb70c96)
     (property "Reference" "D42" (at 201.6761 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5401,7 +5401,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 245.11 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a1cae8f-de32-4155-91ba-2baee519baac)
     (property "Reference" "D104" (at 253.7461 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5429,7 +5429,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 127 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a9c20e5-a0bb-4837-8e51-254138d9ae7f)
     (property "Reference" "D111" (at 135.6361 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5483,7 +5483,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 81.28 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 4ca04538-3bb4-452c-b295-0c13988bc5d1)
     (property "Reference" "D97" (at 89.9161 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5575,7 +5575,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 326.39 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 57841b3c-d289-4e91-9489-4e55b05f8835)
     (property "Reference" "D48" (at 335.0261 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5603,7 +5603,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 334.01 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 580f9ac4-a068-4002-b418-c70452983f01)
     (property "Reference" "D108" (at 342.6461 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5785,7 +5785,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 281.94 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 6942cbd5-9d5a-4eec-af6f-aac309a592c1)
     (property "Reference" "D118" (at 290.5761 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5845,7 +5845,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 104.14 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b7b0cc5-6e04-4e4f-827c-43fd680a3823)
     (property "Reference" "D98" (at 112.7761 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6053,7 +6053,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 179.07 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 7769aa12-bfbc-4294-9e65-0681f4f20aa2)
     (property "Reference" "D17" (at 187.7061 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6081,7 +6081,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 215.9 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 77a6f3f1-374a-48a7-a220-9690cdc396e8)
     (property "Reference" "D115" (at 224.5361 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6109,7 +6109,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 200.66 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 79ae8856-02c9-41a6-89e5-a44c4ccb724f)
     (property "Reference" "D18" (at 209.2961 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6169,7 +6169,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 223.52 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 7dbc5aac-bf7c-45b3-8001-c3d4fe6793ea)
     (property "Reference" "D103" (at 232.1561 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6281,7 +6281,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 200.66 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 85089719-2806-4db7-9fd9-e2e3ce90d56b)
     (property "Reference" "D102" (at 209.2961 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6368,7 +6368,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 260.35 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b81f94d-d91d-4033-9fc3-9e8dc6025667)
     (property "Reference" "D45" (at 268.9861 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6643,7 +6643,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 304.8 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid a7d45567-370e-488e-9894-45380f1d4815)
     (property "Reference" "D47" (at 313.4361 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6703,7 +6703,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 260.35 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid aa2f1208-8b18-4adf-b2c1-3006cd71c8b8)
     (property "Reference" "D117" (at 268.9861 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6879,7 +6879,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 237.49 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid ad3b1682-907b-403d-bc58-cd967a49c8db)
     (property "Reference" "D116" (at 246.1261 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6971,7 +6971,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 334.01 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid b9d3b93f-74df-4ac1-84c7-d2658239adc4)
     (property "Reference" "D24" (at 342.6461 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6999,7 +6999,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 171.45 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid ba91a173-0562-46e0-8016-427d6f945e08)
     (property "Reference" "D113" (at 180.0861 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7085,7 +7085,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 104.14 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid bfab0491-7c08-438f-9ba8-f803f420e4ba)
     (property "Reference" "D110" (at 112.7761 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7171,7 +7171,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 215.9 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid c3f3bf7c-d843-4895-9269-d2cb4810a02d)
     (property "Reference" "D43" (at 224.5361 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7231,7 +7231,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 82.55 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid c5cfcdea-df3f-460a-b046-505eb16618a3)
     (property "Reference" "D109" (at 91.1861 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7381,7 +7381,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 179.07 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid cf725871-03e9-400c-9675-a744f9100b81)
     (property "Reference" "D101" (at 187.7061 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7537,7 +7537,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 171.45 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid d5a189e0-92bf-47ec-b4ee-d6b74ef1346f)
     (property "Reference" "D41" (at 180.0861 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7739,7 +7739,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 125.73 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid dffd493c-f77f-4f04-9435-2773bbb25676)
     (property "Reference" "D15" (at 134.3661 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7925,7 +7925,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 326.39 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid e22078b5-307f-458a-949d-2d5640946fa1)
     (property "Reference" "D120" (at 335.0261 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7979,7 +7979,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 148.59 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid e3c33d5d-e36c-44bd-96e2-23e5807c4ef7)
     (property "Reference" "D16" (at 157.2261 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8065,7 +8065,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 304.8 204.47 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid e47ede52-50cf-42f8-bfd9-27f0aa73c778)
     (property "Reference" "D119" (at 313.4361 203.3206 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8125,7 +8125,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 245.11 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid e9d9e251-0fcc-4012-985f-e5d86e66176a)
     (property "Reference" "D20" (at 253.7461 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8153,7 +8153,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 104.14 127 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid ecc8fa32-2c26-496a-a311-99e3c73acc19)
     (property "Reference" "D14" (at 112.7761 125.8506 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8211,7 +8211,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 281.94 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid efcd26dc-3fee-4e4a-98be-898d39615983)
     (property "Reference" "D46" (at 290.5761 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8239,7 +8239,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 237.49 186.69 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid f1c5a608-f0a2-4a27-b745-875b8e1780e7)
     (property "Reference" "D44" (at 246.1261 185.5406 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8363,7 +8363,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 125.73 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid f5e11064-567e-450d-a5e3-9bae4c945d3e)
     (property "Reference" "D99" (at 134.3661 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8391,7 +8391,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 267.97 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid f64dd5be-f38c-4efa-a86c-3dfd3453f656)
     (property "Reference" "D105" (at 276.6061 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8419,7 +8419,7 @@
   )
 
   (symbol (lib_id "LED:SK6812MINI") (at 148.59 146.05 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid f9f7c1af-99d9-4809-8cd0-3afd95d9522d)
     (property "Reference" "D100" (at 157.2261 144.9006 0)
       (effects (font (size 1.27 1.27)) (justify left))
