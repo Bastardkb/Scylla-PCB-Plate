@@ -15,14 +15,6 @@ If you want to modify the design files, the Kicad sources are included.
 
 Order with a 0.6mm or 0.8mm PCB thickness
 
-
-# Support me on Patreon
-
-If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
-
-I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
-
-
 ## License
 
 Licensed under CC BY-NC-SA 4.0
