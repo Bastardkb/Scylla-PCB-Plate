@@ -2001,12 +2001,6 @@
 		(uuid "55c521e2-48ba-4307-b7e6-11c7522ddafd")
 	)
 	(junction
-		(at 40.64 222.25)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "55e740a3-0735-4744-896e-2bf5437093b9")
-	)
-	(junction
 		(at 304.8 196.85)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -2119,12 +2113,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "740658a7-c40d-44b0-91db-dda255837eea")
-	)
-	(junction
-		(at 53.34 127)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "746ba970-8279-4e7b-aed3-f28687777c21")
 	)
 	(junction
 		(at 38.1 50.8)
@@ -2571,12 +2559,6 @@
 		(uuid "de4b6226-4533-49f5-b8d1-569981364081")
 	)
 	(junction
-		(at 45.72 127)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "e10b5627-3247-4c86-b9f6-ef474ca11543")
-	)
-	(junction
 		(at 257.81 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2671,12 +2653,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f34ca556-d9ff-4f7b-977c-2309bc768a40")
-	)
-	(junction
-		(at 40.64 234.95)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "f4f99e3d-7269-4f6a-a759-16ad2a258779")
 	)
 	(junction
 		(at 260.35 212.09)
@@ -3131,16 +3107,6 @@
 			(type solid)
 		)
 		(uuid "18b67290-73be-4f1b-aa8f-032e5a88e61a")
-	)
-	(wire
-		(pts
-			(xy 40.64 234.95) (xy 40.64 232.41)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "192cb822-fb44-4bd7-b8ec-06c9deed4d03")
 	)
 	(wire
 		(pts
@@ -3834,16 +3800,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 222.25) (xy 36.83 222.25)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "4e980723-2aec-4770-846a-204b0668367d")
-	)
-	(wire
-		(pts
 			(xy 38.1 87.63) (xy 38.1 91.44)
 		)
 		(stroke
@@ -3954,7 +3910,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 234.95) (xy 40.64 234.95)
+			(xy 36.83 234.95) (xy 48.26 234.95)
 		)
 		(stroke
 			(width 0)
@@ -5324,16 +5280,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 224.79) (xy 40.64 222.25)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "b048a534-b604-4d3e-9c47-944d64fccde3")
-	)
-	(wire
-		(pts
 			(xy 313.69 91.44) (xy 313.69 90.17)
 		)
 		(stroke
@@ -5451,16 +5397,6 @@
 			(type solid)
 		)
 		(uuid "b6d5c2d8-270f-47b6-b80e-4e12cfba4b6f")
-	)
-	(wire
-		(pts
-			(xy 40.64 234.95) (xy 48.26 234.95)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "b7395211-4881-4805-b58b-657e2fc39b31")
 	)
 	(wire
 		(pts
@@ -6494,7 +6430,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 222.25) (xy 40.64 222.25)
+			(xy 36.83 222.25) (xy 48.26 222.25)
 		)
 		(stroke
 			(width 0)
@@ -7645,75 +7581,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 40.64 228.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "03921f2e-45fd-46df-ac7a-a595d622cae4")
-		(property "Reference" "C1"
-			(at 43.5611 227.4506 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "RIGHT_C"
-			(at 43.5611 229.7493 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "libs:D_0402"
-			(at 41.6052 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 40.64 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 40.64 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9c462f36-1ed1-42d0-9bb2-e3e7c2ee2f1b")
-		)
-		(pin "2"
-			(uuid "f260d02c-2f51-46ef-84fd-eb0251d682a0")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "C1")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -12471,73 +12338,6 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 49.53 127 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ab9a4049-a169-4026-a4f0-8adf686ffdc5")
-		(property "Reference" "R1"
-			(at 49.53 121.7738 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RIGHT_R"
-			(at 49.53 124.0725 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "libs:D_0402"
-			(at 49.53 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 49.53 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5bfc6270-1d13-4f8e-9e48-f0a14eb003f8")
-		)
-		(pin "2"
-			(uuid "2c52cab8-7bea-4e41-9b14-8963b6b40f91")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R1")
 					(unit 1)
 				)
 			)
