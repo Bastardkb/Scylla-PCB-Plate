@@ -1629,6 +1629,12 @@
 		)
 	)
 	(junction
+		(at 165.1 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00e73c79-99f0-41c8-876f-ca2d6cbc0899")
+	)
+	(junction
 		(at 148.59 35.56)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -1707,6 +1713,12 @@
 		(uuid "0ecbd329-1376-49a5-a053-8dd4caddf1f1")
 	)
 	(junction
+		(at 264.16 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f18a6ed-f1ac-4108-b76b-34db717a6a52")
+	)
+	(junction
 		(at 200.66 119.38)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -1735,6 +1747,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "127679a9-3981-4934-815e-896a4e3ff56e")
+	)
+	(junction
+		(at 318.77 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1483ad97-75c9-4f57-b9b4-3dd9dfd5195a")
 	)
 	(junction
 		(at 317.5 186.69)
@@ -1845,6 +1863,12 @@
 		(uuid "29e78086-2175-405e-9ba3-c48766d2f50c")
 	)
 	(junction
+		(at 54.61 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a5c8fa3-ba6c-45eb-aa51-84f4c1967b9b")
+	)
+	(junction
 		(at 81.28 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1861,6 +1885,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "2ea0e0bf-0b5c-4a9d-9e08-d84fe0b98484")
+	)
+	(junction
+		(at 166.37 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2fd869bb-673b-46c1-8e2a-50cf0034a3e0")
 	)
 	(junction
 		(at 312.42 138.43)
@@ -1887,6 +1917,12 @@
 		(uuid "3654f72d-e0c1-4af2-ac8a-0bbe6365ca10")
 	)
 	(junction
+		(at 214.63 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "390e4718-454f-4b49-97ff-ac04ed7d13b8")
+	)
+	(junction
 		(at 36.83 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1905,6 +1941,12 @@
 		(uuid "3cfa38a4-5f14-440a-8764-d418bcd59188")
 	)
 	(junction
+		(at 317.5 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3da62019-1b45-466b-a1e5-a8ede58a182d")
+	)
+	(junction
 		(at 267.97 153.67)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -1915,6 +1957,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "403459aa-5b76-41b7-bf54-a18187a04264")
+	)
+	(junction
+		(at 165.1 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4161acc6-2af3-4e9e-8768-bf94ea1b8bd0")
 	)
 	(junction
 		(at 36.83 48.26)
@@ -2013,6 +2061,18 @@
 		(uuid "5827a436-5b4d-4231-9473-806695afc012")
 	)
 	(junction
+		(at 106.68 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59a04cfc-01f1-494d-a679-77cb0946b92e")
+	)
+	(junction
+		(at 106.68 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a8f757d-a787-4c49-8586-b40ce4a5fbe0")
+	)
+	(junction
 		(at 68.58 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2037,10 +2097,28 @@
 		(uuid "5ff3e5e2-1fa0-4567-be5a-d3a80e2debad")
 	)
 	(junction
+		(at 54.61 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6276f594-6416-44c4-9dc6-d80cf3bdecca")
+	)
+	(junction
+		(at 166.37 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "63286916-0b27-4125-abd9-fd76a7453322")
+	)
+	(junction
 		(at 104.14 179.07)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "6475547d-3216-45a4-a15c-48314f1dd0f9")
+	)
+	(junction
+		(at 106.68 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "650620e1-480d-47e9-b98a-f5aeff05faed")
 	)
 	(junction
 		(at 289.56 134.62)
@@ -2097,16 +2175,34 @@
 		(uuid "6caf72db-97b1-4c58-8d2b-455ecbf72a89")
 	)
 	(junction
+		(at 265.43 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e3d86ba-68a7-439c-a1c9-670f20467cab")
+	)
+	(junction
 		(at 215.9 196.85)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "6f54d7ea-7b9d-4b37-9422-5476c278b2c7")
 	)
 	(junction
+		(at 165.1 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70b6a8fb-1648-4cb9-b520-0c185e90fc0a")
+	)
+	(junction
 		(at 148.59 196.85)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "7138a4ef-e4d7-43d3-bd97-149d77c784d0")
+	)
+	(junction
+		(at 106.68 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73cd7911-ecbe-4f92-b4d0-2da28cacb90d")
 	)
 	(junction
 		(at 66.04 134.62)
@@ -2145,10 +2241,22 @@
 		(uuid "7aed3a71-054b-4aaa-9c0a-030523c32827")
 	)
 	(junction
+		(at 213.36 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b13d341-9ccb-44e4-9db7-473d99b534dd")
+	)
+	(junction
 		(at 325.12 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d4ff1bd-4f47-4dbd-9de3-52ff6df41c73")
+	)
+	(junction
+		(at 317.5 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f235416-91ae-43f8-8f15-5df3c813c928")
 	)
 	(junction
 		(at 293.37 186.69)
@@ -2157,10 +2265,22 @@
 		(uuid "7f519900-523f-4ae2-b91f-f2ab3772b12c")
 	)
 	(junction
+		(at 264.16 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ffa729d-19f3-422c-8fed-f886aef8d611")
+	)
+	(junction
 		(at 267.97 119.38)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "80094b70-85ab-4ff6-934b-60d5ee65023a")
+	)
+	(junction
+		(at 213.36 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "819810a3-7579-427e-afdd-2ebdb27c8c76")
 	)
 	(junction
 		(at 294.64 83.82)
@@ -2217,6 +2337,12 @@
 		(uuid "8a6f1b9e-7661-4bad-88c8-4c138b4e98b0")
 	)
 	(junction
+		(at 106.68 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b5b9eee-f9dc-42e6-9f2f-2db978f3c1ce")
+	)
+	(junction
 		(at 104.14 194.31)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -2227,6 +2353,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "8e06ba1f-e3ba-4eb9-a10e-887dffd566d6")
+	)
+	(junction
+		(at 265.43 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "90979b6d-6e87-43e0-8750-399570b73a2a")
 	)
 	(junction
 		(at 260.35 194.31)
@@ -2265,16 +2397,34 @@
 		(uuid "94a873dc-af67-4ef9-8159-1f7c93eeb3d7")
 	)
 	(junction
+		(at 318.77 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9629c64a-a2d8-4689-90e8-acf7ca29321b")
+	)
+	(junction
 		(at 182.88 204.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97902c44-6016-4503-8961-4ed0e3f34d2f")
 	)
 	(junction
+		(at 166.37 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97a8fd4e-48b3-4e52-b845-f7ef411963b0")
+	)
+	(junction
 		(at 198.12 50.8)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "97fe9c60-586f-4895-8504-4d3729f5f81a")
+	)
+	(junction
+		(at 166.37 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b008e22-533b-457a-bc71-7c562c835af4")
 	)
 	(junction
 		(at 251.46 87.63)
@@ -2287,6 +2437,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "9bb20359-0f8b-45bc-9d38-6626ed3a939d")
+	)
+	(junction
+		(at 214.63 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c8af167-54bf-428d-9b14-5cbb4d703a76")
 	)
 	(junction
 		(at 104.14 138.43)
@@ -2325,6 +2481,12 @@
 		(uuid "a06ffb3e-77b8-447b-9d7f-6774f8e712bc")
 	)
 	(junction
+		(at 317.5 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a10c00c7-252c-456e-8408-f2e950e28773")
+	)
+	(junction
 		(at 148.59 50.8)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -2335,6 +2497,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "a256a96e-e3e1-47f7-94af-ee63daeab4be")
+	)
+	(junction
+		(at 264.16 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a287edfe-6b67-4862-bfa4-495b5c59e452")
 	)
 	(junction
 		(at 68.58 134.62)
@@ -2355,6 +2523,12 @@
 		(uuid "a85f8c0d-a438-46eb-a95b-cc47f7ec84ca")
 	)
 	(junction
+		(at 106.68 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8f31ac3-e21a-4b56-8d7c-f4ed5eded01c")
+	)
+	(junction
 		(at 325.12 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2371,6 +2545,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "ac264c30-3e9a-4be2-b97a-9949b68bd497")
+	)
+	(junction
+		(at 106.68 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "acc878de-63b7-4b45-a43b-ef286b1c9669")
 	)
 	(junction
 		(at 257.81 127)
@@ -2395,6 +2575,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2cf8721-3622-45f8-9a1e-494a0203d6bb")
+	)
+	(junction
+		(at 54.61 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b366cf94-b1e2-4bdf-8282-14149697a372")
 	)
 	(junction
 		(at 279.4 146.05)
@@ -2481,6 +2667,12 @@
 		(uuid "c6096d66-d893-4087-88f6-12dccdb1c100")
 	)
 	(junction
+		(at 54.61 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6266e70-00af-443b-87dd-e445f9eb5ebb")
+	)
+	(junction
 		(at 171.45 196.85)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -2493,10 +2685,40 @@
 		(uuid "c74c6267-d86e-4c1e-9aee-28b34010a57f")
 	)
 	(junction
+		(at 318.77 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c75101d4-23de-4fe0-92ce-6411dc374c28")
+	)
+	(junction
+		(at 318.77 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c830be07-e966-418f-9c4a-b8fdf872e89b")
+	)
+	(junction
 		(at 193.04 194.31)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "c8c79177-94d4-43e2-a654-f0a5554fbb68")
+	)
+	(junction
+		(at 265.43 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8d9cbb0-dafb-4cdf-8998-d8cabc51a2d0")
+	)
+	(junction
+		(at 165.1 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8da94cf-0544-48b3-8b31-7c25d17e29cd")
+	)
+	(junction
+		(at 214.63 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb2e907b-d01a-4413-9d42-11dd8c63c18c")
 	)
 	(junction
 		(at 250.19 50.8)
@@ -2523,10 +2745,22 @@
 		(uuid "ccb89fa9-27b5-4764-a21a-e7c90f53c41b")
 	)
 	(junction
+		(at 317.5 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ceaa4795-cd5a-43d5-8a18-1a44fa0c43b6")
+	)
+	(junction
 		(at 115.57 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0c09f70-704f-4f26-bc09-8e10603002d8")
+	)
+	(junction
+		(at 214.63 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d14401f1-19d2-4310-8d27-8fdeae53e506")
 	)
 	(junction
 		(at 317.5 204.47)
@@ -2547,10 +2781,34 @@
 		(uuid "d4a1d3c4-b315-4bec-9220-d12a9eab51e0")
 	)
 	(junction
+		(at 54.61 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7aab6d3-c7b7-4d6d-bcd6-78e9f377306a")
+	)
+	(junction
 		(at 104.14 134.62)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "d8603679-3e7b-4337-8dbc-1827f5f54d8a")
+	)
+	(junction
+		(at 54.61 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d88bc3de-2e1c-4118-a8fa-185904be0fa7")
+	)
+	(junction
+		(at 264.16 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9ebfd2a-720f-4233-ac7e-f05950ae4660")
+	)
+	(junction
+		(at 54.61 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd410c08-1b58-4930-9f03-aab2888a8e23")
 	)
 	(junction
 		(at 212.09 146.05)
@@ -2595,6 +2853,12 @@
 		(uuid "e6f9a22f-f6cb-45ad-a682-25e44361aeb3")
 	)
 	(junction
+		(at 213.36 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e70fb22d-03ac-46c7-9998-b335cac646cc")
+	)
+	(junction
 		(at 148.59 194.31)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -2607,6 +2871,12 @@
 		(uuid "ea1002ba-558a-41ed-9e72-23957c277a18")
 	)
 	(junction
+		(at 106.68 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb151af4-96a0-40dd-9206-9af1fa5d5a8e")
+	)
+	(junction
 		(at 36.83 63.5)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -2617,6 +2887,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec6b7dcd-5f4c-4f0c-9baa-e332f4816c3e")
+	)
+	(junction
+		(at 265.43 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ecaec141-d655-40a4-9da6-8944fb89a578")
 	)
 	(junction
 		(at 341.63 127)
@@ -2635,6 +2911,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef4c8f3f-e724-4841-b3ac-e63653559dde")
+	)
+	(junction
+		(at 213.36 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0d7e09e-23e1-4e80-adcf-3edd142a7fdf")
 	)
 	(junction
 		(at 92.71 146.05)
@@ -2697,6 +2979,12 @@
 		(uuid "fe8d9267-7834-48d6-a191-c8724b2ee78d")
 	)
 	(junction
+		(at 54.61 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff28bd8a-ff06-4fd2-a936-77f32993abdf")
+	)
+	(junction
 		(at 302.26 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2710,6 +2998,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 97.79) (xy 118.11 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00799083-e2ff-45c5-9a80-cd434eb70973")
+	)
+	(wire
+		(pts
 			(xy 82.55 179.07) (xy 104.14 179.07)
 		)
 		(stroke
@@ -2717,6 +3015,26 @@
 			(type solid)
 		)
 		(uuid "00c15996-0702-4455-b4d3-8354172029e1")
+	)
+	(wire
+		(pts
+			(xy 265.43 90.17) (xy 276.86 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00ef4764-a663-47b7-b20b-7b58cfaaa565")
+	)
+	(wire
+		(pts
+			(xy 213.36 97.79) (xy 224.79 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02d049c0-95ff-42f3-b113-96821c30ccec")
 	)
 	(wire
 		(pts
@@ -2767,6 +3085,36 @@
 			(type solid)
 		)
 		(uuid "057dd8f0-66a9-47dc-9e6e-0fc318636395")
+	)
+	(wire
+		(pts
+			(xy 318.77 53.34) (xy 330.2 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06bda6ea-0e5f-4390-ba62-7d105049db1b")
+	)
+	(wire
+		(pts
+			(xy 317.5 76.2) (xy 328.93 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "072091cb-d0c6-41ce-bf6f-a1d3de1ab647")
+	)
+	(wire
+		(pts
+			(xy 54.61 90.17) (xy 66.04 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0753eaf1-bf79-4c4a-9542-f9c478f4a7e6")
 	)
 	(wire
 		(pts
@@ -2848,6 +3196,16 @@
 		)
 		(uuid "0a780e4a-0f41-4980-84c5-ec3e3c7c2358")
 	)
+	(wire
+		(pts
+			(xy 214.63 60.96) (xy 226.06 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b066039-0d7e-4430-9ae2-7c2b1c1de5a2")
+	)
 	(polyline
 		(pts
 			(xy 347.98 19.05) (xy 391.16 19.05)
@@ -2907,6 +3265,26 @@
 			(type solid)
 		)
 		(uuid "0d35002b-938b-4b92-96ec-05b1c0455530")
+	)
+	(wire
+		(pts
+			(xy 265.43 76.2) (xy 276.86 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e6fd967-fc09-4c82-8ccd-6f56867bc262")
+	)
+	(wire
+		(pts
+			(xy 106.68 48.26) (xy 118.11 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fa1d858-dd03-4a9e-8e67-95cc0f385379")
 	)
 	(wire
 		(pts
@@ -2977,6 +3355,16 @@
 			(type solid)
 		)
 		(uuid "132ba2ca-c730-4b91-abef-eddd8577082c")
+	)
+	(wire
+		(pts
+			(xy 54.61 54.61) (xy 66.04 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "137b211c-ddb7-4356-b1e4-db700e7e6983")
 	)
 	(wire
 		(pts
@@ -3067,6 +3455,16 @@
 			(type default)
 		)
 		(uuid "1757895e-4b2b-4c18-bf50-22b184702e60")
+	)
+	(wire
+		(pts
+			(xy 54.61 48.26) (xy 66.04 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1771da56-9404-41ca-8517-84175a490de4")
 	)
 	(wire
 		(pts
@@ -3210,6 +3608,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 60.96) (xy 330.2 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21b6b55b-6426-474f-a17e-5fff707b3c72")
+	)
+	(wire
+		(pts
 			(xy 55.88 134.62) (xy 66.04 134.62)
 		)
 		(stroke
@@ -3247,6 +3655,16 @@
 			(type solid)
 		)
 		(uuid "236eede6-aaae-43ef-a343-a377680709d8")
+	)
+	(wire
+		(pts
+			(xy 213.36 76.2) (xy 224.79 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "250cae1e-5571-43ff-9683-2e0e5d0da914")
 	)
 	(wire
 		(pts
@@ -3370,6 +3788,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 46.99) (xy 176.53 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ce6e1c0-d0f5-4de6-9b76-5ec739c271ba")
+	)
+	(wire
+		(pts
 			(xy 208.28 127) (xy 212.09 127)
 		)
 		(stroke
@@ -3387,6 +3815,16 @@
 			(type solid)
 		)
 		(uuid "2e52eca4-dd25-4c8d-8d15-033d03e487b3")
+	)
+	(wire
+		(pts
+			(xy 165.1 39.37) (xy 176.53 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e787ede-78c2-41e5-9295-51b61496d932")
 	)
 	(wire
 		(pts
@@ -3590,6 +4028,16 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 97.79) (xy 328.93 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c97d80d-07f0-47b0-80df-6fdf84ccdd1f")
+	)
+	(wire
+		(pts
 			(xy 139.7 186.69) (xy 140.97 186.69)
 		)
 		(stroke
@@ -3740,6 +4188,26 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 83.82) (xy 118.11 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "471930b8-e522-42dc-9361-0a6f828eed6d")
+	)
+	(wire
+		(pts
+			(xy 165.1 60.96) (xy 176.53 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "474073b6-1ec7-4b58-8aa7-d6c5507e883f")
+	)
+	(wire
+		(pts
 			(xy 252.73 127) (xy 257.81 127)
 		)
 		(stroke
@@ -3747,6 +4215,16 @@
 			(type solid)
 		)
 		(uuid "47a68594-07f3-4173-837f-fbf5dfb84080")
+	)
+	(wire
+		(pts
+			(xy 317.5 90.17) (xy 328.93 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48bd5b34-fc8f-4283-b94c-ca34f2bf9a21")
 	)
 	(wire
 		(pts
@@ -3907,6 +4385,16 @@
 			(type default)
 		)
 		(uuid "56cbfd40-4c46-4724-aded-d261c0e799f9")
+	)
+	(wire
+		(pts
+			(xy 165.1 53.34) (xy 176.53 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57ab4e4b-a72c-4ece-8d98-7de3c41aa7a8")
 	)
 	(wire
 		(pts
@@ -4230,6 +4718,26 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 54.61) (xy 118.11 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c2db789-9c56-4a1b-98f6-ddbe344788cd")
+	)
+	(wire
+		(pts
+			(xy 318.77 46.99) (xy 330.2 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d4dd83d-c899-4e13-98f6-83f18e31389a")
+	)
+	(wire
+		(pts
 			(xy 71.12 119.38) (xy 81.28 119.38)
 		)
 		(stroke
@@ -4410,6 +4918,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 53.34) (xy 226.06 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77e49abf-a33e-4fa0-a436-cbec34de91eb")
+	)
+	(wire
+		(pts
 			(xy 38.1 35.56) (xy 88.9 35.56)
 		)
 		(stroke
@@ -4517,6 +5035,16 @@
 			(type solid)
 		)
 		(uuid "7ce9a12b-3d61-4304-b940-b4f96c50a79a")
+	)
+	(wire
+		(pts
+			(xy 106.68 90.17) (xy 118.11 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d8250ca-86e4-48a3-9fd6-c9d39d5c704b")
 	)
 	(wire
 		(pts
@@ -4660,6 +5188,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 83.82) (xy 66.04 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87eb06b7-7d39-4a99-8313-c7b25cb30d0d")
+	)
+	(wire
+		(pts
 			(xy 55.88 134.62) (xy 55.88 144.78)
 		)
 		(stroke
@@ -4680,6 +5218,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 39.37) (xy 330.2 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8941530e-b78b-456d-9dbe-c72e6a28f0f9")
+	)
+	(wire
+		(pts
 			(xy 237.49 212.09) (xy 260.35 212.09)
 		)
 		(stroke
@@ -4687,6 +5235,16 @@
 			(type solid)
 		)
 		(uuid "89731f97-7f00-4f83-a379-187f740c6803")
+	)
+	(wire
+		(pts
+			(xy 166.37 97.79) (xy 177.8 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b63c82e-e7ee-4647-aa78-a5464f70bb2b")
 	)
 	(wire
 		(pts
@@ -4707,6 +5265,16 @@
 			(type default)
 		)
 		(uuid "8bcf9e3d-a64e-47af-9ea4-625234139d02")
+	)
+	(wire
+		(pts
+			(xy 213.36 90.17) (xy 224.79 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bd1b488-8b85-487e-8435-2b71d673010a")
 	)
 	(wire
 		(pts
@@ -4747,6 +5315,16 @@
 			(type solid)
 		)
 		(uuid "8d084515-60b1-4bc6-b7b7-d82f7eb96e06")
+	)
+	(wire
+		(pts
+			(xy 265.43 83.82) (xy 276.86 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dc84d92-2d91-4abf-a4ef-6fc3cfba3c6a")
 	)
 	(wire
 		(pts
@@ -4810,6 +5388,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 76.2) (xy 118.11 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92635b1a-7ba6-49fb-8edb-c55093eb0bae")
+	)
+	(wire
+		(pts
 			(xy 289.56 153.67) (xy 312.42 153.67)
 		)
 		(stroke
@@ -4837,6 +5425,16 @@
 			(type solid)
 		)
 		(uuid "9355f3bf-e78b-4514-bf91-2738d6f6f155")
+	)
+	(wire
+		(pts
+			(xy 264.16 46.99) (xy 275.59 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93ef85d8-3768-44ec-bd10-c012699830dd")
 	)
 	(wire
 		(pts
@@ -4877,6 +5475,16 @@
 			(type solid)
 		)
 		(uuid "955fbbca-f108-4f3b-b313-6a1b30e05933")
+	)
+	(wire
+		(pts
+			(xy 264.16 60.96) (xy 275.59 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "957efc91-a6f3-42d5-98a8-7981787e0f3b")
 	)
 	(wire
 		(pts
@@ -5090,6 +5698,26 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 83.82) (xy 328.93 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4eb5a07-b48b-4981-a570-cccc026bfc57")
+	)
+	(wire
+		(pts
+			(xy 265.43 97.79) (xy 276.86 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5389344-6957-4933-b6a3-af977ad810ca")
+	)
+	(wire
+		(pts
 			(xy 294.64 99.06) (xy 317.5 99.06)
 		)
 		(stroke
@@ -5097,6 +5725,16 @@
 			(type solid)
 		)
 		(uuid "a5cd1a95-3e6e-4fd6-b228-041079bedd8f")
+	)
+	(wire
+		(pts
+			(xy 214.63 39.37) (xy 226.06 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6106812-3f1d-4539-9d02-350dbfa332f5")
 	)
 	(wire
 		(pts
@@ -5140,6 +5778,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 53.34) (xy 275.59 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7c978dd-d97a-4638-b410-2e1d5ada9ef3")
+	)
+	(wire
+		(pts
 			(xy 317.5 186.69) (xy 318.77 186.69)
 		)
 		(stroke
@@ -5170,6 +5818,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 76.2) (xy 66.04 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9f6244e-520e-406a-be54-51fe4bd3aa57")
+	)
+	(wire
+		(pts
 			(xy 245.11 119.38) (xy 267.97 119.38)
 		)
 		(stroke
@@ -5187,6 +5845,16 @@
 			(type solid)
 		)
 		(uuid "ab2561f2-d6a9-4440-a50e-29f347008e3e")
+	)
+	(wire
+		(pts
+			(xy 264.16 39.37) (xy 275.59 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab4257e0-e498-4fd7-9175-310d57011273")
 	)
 	(wire
 		(pts
@@ -5310,6 +5978,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 97.79) (xy 66.04 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b30ae85b-c223-4666-a25f-f344269b9da7")
+	)
+	(wire
+		(pts
 			(xy 251.46 87.63) (xy 303.53 87.63)
 		)
 		(stroke
@@ -5397,6 +6075,16 @@
 			(type solid)
 		)
 		(uuid "b6d5c2d8-270f-47b6-b80e-4e12cfba4b6f")
+	)
+	(wire
+		(pts
+			(xy 54.61 40.64) (xy 66.04 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7537d68-c1a8-41fe-a0e4-4eacbe8b7ecd")
 	)
 	(wire
 		(pts
@@ -5537,6 +6225,16 @@
 			(type solid)
 		)
 		(uuid "bbab3bc1-4c6d-46b3-8bbf-3b29d00c3fb6")
+	)
+	(wire
+		(pts
+			(xy 166.37 83.82) (xy 177.8 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc2adf73-b50b-4f80-98cd-7f2833d82a4f")
 	)
 	(wire
 		(pts
@@ -5850,6 +6548,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 62.23) (xy 66.04 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d04c89aa-144e-453d-98ee-cc0a70b844b8")
+	)
+	(wire
+		(pts
 			(xy 297.18 146.05) (xy 302.26 146.05)
 		)
 		(stroke
@@ -5887,6 +6595,16 @@
 			(type solid)
 		)
 		(uuid "d1f7d27c-628c-4ac0-bcef-3aed8851eaaa")
+	)
+	(wire
+		(pts
+			(xy 213.36 83.82) (xy 224.79 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d26fdb8a-fd1b-4b2f-b8bc-2510b083cab0")
 	)
 	(wire
 		(pts
@@ -6020,6 +6738,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 62.23) (xy 118.11 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9c3277b-28a3-4b4f-8e00-84fb083c8225")
+	)
+	(wire
+		(pts
 			(xy 312.42 53.34) (xy 318.77 53.34)
 		)
 		(stroke
@@ -6107,6 +6835,26 @@
 			(type default)
 		)
 		(uuid "de27cbc7-d0a2-4b46-bf05-36353826bbf2")
+	)
+	(wire
+		(pts
+			(xy 214.63 46.99) (xy 226.06 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df5c10a0-1d41-4672-afcc-8a2eaec7440b")
+	)
+	(wire
+		(pts
+			(xy 166.37 76.2) (xy 177.8 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df83578b-8985-46a9-8c25-b7b30e329b08")
 	)
 	(wire
 		(pts
@@ -6350,6 +7098,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 40.64) (xy 118.11 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed026f7f-5f9b-412b-9586-4a9f8e4f79ed")
+	)
+	(wire
+		(pts
 			(xy 138.43 146.05) (xy 140.97 146.05)
 		)
 		(stroke
@@ -6407,6 +7165,16 @@
 			(type solid)
 		)
 		(uuid "ee72cb8d-d261-41b7-b980-c9582ebe2034")
+	)
+	(wire
+		(pts
+			(xy 166.37 90.17) (xy 177.8 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef09828e-5685-43e9-b549-326ffed1a2f3")
 	)
 	(wire
 		(pts
@@ -7729,6 +8497,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 275.59 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cd1a664-d52b-4f96-9c7e-c6af13a0027e")
+		(property "Reference" "D30"
+			(at 278.13 55.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 278.13 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 275.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca395a41-5193-47cd-bfe6-a12113392243")
+		)
+		(pin "2"
+			(uuid "173614fb-eb10-4eeb-ad9d-39e8fd35097d")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 224.79 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e95ccee-e9fb-455d-9f0b-a1df8647b0eb")
+		(property "Reference" "D25"
+			(at 227.33 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 227.33 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 224.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 224.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 224.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 224.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 224.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3df25c4-10c7-477d-add2-d1c34a4e4977")
+		)
+		(pin "2"
+			(uuid "052fb355-a6ce-4a44-a79a-b86a1a7346da")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 193.04 204.47 0)
 		(unit 1)
@@ -8114,7 +9058,7 @@
 		(fields_autoplaced yes)
 		(uuid "190e4d98-05c3-4886-ad29-650d374b6457")
 		(property "Reference" "D61"
-			(at 217.17 42.545 90)
+			(at 217.17 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8122,8 +9066,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 217.17 45.085 90)
+		(property "Value" "RIGHT_D"
+			(at 217.17 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8131,7 +9075,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 214.63 43.18 0)
 			(effects
 				(font
@@ -8269,6 +9213,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 176.53 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ef3a30c-0863-4660-9f48-d01bf7522c35")
+		(property "Reference" "D9"
+			(at 179.07 41.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 179.07 44.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 176.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 176.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 176.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 176.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 176.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7ceebda0-a741-41f0-855c-6a7caa0cfa7e")
+		)
+		(pin "2"
+			(uuid "140755c5-659e-4222-9f80-e2c687375b5f")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 289.56 146.05 0)
 		(unit 1)
@@ -8346,6 +9378,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 118.11 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "218b90a2-6197-440d-882d-52c3b3219ffa")
+		(property "Reference" "D7"
+			(at 120.65 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 120.65 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 118.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7fc878ea-7392-441e-b6a6-6a2627159b08")
+		)
+		(pin "2"
+			(uuid "af836d2f-c197-4f59-8647-a815f49b376e")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 223.52 127 0)
 		(unit 1)
@@ -8417,6 +9537,94 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 276.86 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22ee41f7-2a4b-4cb7-8fdf-a765f1ef11e8")
+		(property "Reference" "D31"
+			(at 279.4 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 279.4 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 276.86 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "56eab31e-e1ec-4e92-9ba8-3a970d16b62e")
+		)
+		(pin "2"
+			(uuid "2cccc162-940e-4907-add8-207895a58f1e")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -8644,6 +9852,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 177.8 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2dd62afe-634e-44e7-9cd8-c29fc390cd95")
+		(property "Reference" "D12"
+			(at 180.34 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 180.34 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 177.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 177.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 177.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 177.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 177.8 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "656e039e-0e99-4130-9ac4-7b976239f554")
+		)
+		(pin "2"
+			(uuid "0c196b7c-ca46-4e1f-82aa-20db95c00b7f")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 289.56 127 0)
 		(unit 1)
@@ -8798,7 +10094,7 @@
 		(fields_autoplaced yes)
 		(uuid "334295c3-a260-4fcf-ac3f-5b02c59b45ec")
 		(property "Reference" "D56"
-			(at 109.22 93.345 90)
+			(at 109.22 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8806,8 +10102,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 109.22 95.885 90)
+		(property "Value" "RIGHT_D"
+			(at 109.22 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8815,7 +10111,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 106.68 93.98 0)
 			(effects
 				(font
@@ -8886,7 +10182,7 @@
 		(fields_autoplaced yes)
 		(uuid "351b0abb-0586-45f8-b6ad-1cc244f6ac8c")
 		(property "Reference" "D66"
-			(at 266.7 56.515 90)
+			(at 266.7 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8894,8 +10190,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 266.7 59.055 90)
+		(property "Value" "RIGHT_D"
+			(at 266.7 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8903,7 +10199,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 264.16 57.15 0)
 			(effects
 				(font
@@ -8958,6 +10254,182 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 66.04 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3645f761-b094-4464-8f2b-bc17d4226014")
+		(property "Reference" "D2"
+			(at 68.58 57.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 68.58 59.6899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 66.04 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 66.04 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 66.04 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c7565366-cadc-45eb-90e3-18459d012a4b")
+		)
+		(pin "2"
+			(uuid "1685fc29-34c5-4652-ba1b-c42331a9a176")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 226.06 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36e670c5-7b23-4b4e-99fa-539e3ed3ca6c")
+		(property "Reference" "D27"
+			(at 228.6 55.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 228.6 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 226.06 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 226.06 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 226.06 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 226.06 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 226.06 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5213571a-8ec4-44d9-bffc-a6876279b9f4")
+		)
+		(pin "2"
+			(uuid "99825f8b-6121-4ce4-9398-d358c1275034")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -9118,7 +10590,7 @@
 		(fields_autoplaced yes)
 		(uuid "3bd9c39f-f3f3-421a-8ad6-bb47c4c9ff31")
 		(property "Reference" "D55"
-			(at 109.22 79.375 90)
+			(at 109.22 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9126,8 +10598,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 109.22 81.915 90)
+		(property "Value" "RIGHT_D"
+			(at 109.22 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9135,7 +10607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 106.68 80.01 0)
 			(effects
 				(font
@@ -9206,7 +10678,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c724f2f-a7ba-47b8-a146-c943c8281ff2")
 		(property "Reference" "D67"
-			(at 267.97 79.375 90)
+			(at 267.97 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9214,8 +10686,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 267.97 81.915 90)
+		(property "Value" "RIGHT_D"
+			(at 267.97 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9223,7 +10695,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 265.43 80.01 0)
 			(effects
 				(font
@@ -9361,7 +10833,7 @@
 		(fields_autoplaced yes)
 		(uuid "3da83c19-a7b9-4e16-ab79-fc8a030df3b5")
 		(property "Reference" "D68"
-			(at 267.97 93.345 90)
+			(at 267.97 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9369,8 +10841,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 267.97 95.885 90)
+		(property "Value" "RIGHT_D"
+			(at 267.97 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9378,7 +10850,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 265.43 93.98 0)
 			(effects
 				(font
@@ -9505,6 +10977,94 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 66.04 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "427061bf-521d-44eb-af42-759e3cc42897")
+		(property "Reference" "D3"
+			(at 68.58 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 68.58 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 66.04 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 66.04 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 66.04 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bead2731-0d1e-49d8-bd0d-29ed66c85175")
+		)
+		(pin "2"
+			(uuid "5ba41c75-4664-4345-8a7f-56793d4f2b61")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -10164,6 +11724,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 275.59 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e267958-6a21-47ca-bf6c-df3a37474908")
+		(property "Reference" "D29"
+			(at 278.13 41.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 278.13 44.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 275.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 275.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 275.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 275.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 275.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f1397b34-9556-4dd7-af7e-ce3ab49a8799")
+		)
+		(pin "2"
+			(uuid "6183361e-ee36-4e74-9094-1efc31351d78")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 226.06 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "533d9379-1b56-47a7-a0f5-2978805261f0")
+		(property "Reference" "D28"
+			(at 228.6 41.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 228.6 44.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 226.06 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 226.06 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 226.06 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 226.06 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 226.06 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "436c771c-ab9d-4295-849c-fd7dabbea58b")
+		)
+		(pin "2"
+			(uuid "ffca79ea-e1c8-453b-a948-c483e7c0c4fe")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 326.39 186.69 0)
 		(unit 1)
@@ -10258,7 +11994,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RIGHT_LED"
+		(property "Value" "LEFT_LED"
 			(at 83.82 133.35 0)
 			(effects
 				(font
@@ -10328,7 +12064,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e4b47b5-c93e-4c98-ae72-7659b274761b")
 		(property "Reference" "D59"
-			(at 168.91 79.375 90)
+			(at 168.91 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10336,8 +12072,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 168.91 81.915 90)
+		(property "Value" "RIGHT_D"
+			(at 168.91 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10345,7 +12081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 166.37 80.01 0)
 			(effects
 				(font
@@ -10483,7 +12219,7 @@
 		(fields_autoplaced yes)
 		(uuid "6404bd83-eabf-4915-aabe-1c1ca6c3b5f5")
 		(property "Reference" "D52"
-			(at 57.15 93.345 90)
+			(at 57.15 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10491,8 +12227,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 57.15 95.885 90)
+		(property "Value" "RIGHT_D"
+			(at 57.15 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10500,7 +12236,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 54.61 93.98 0)
 			(effects
 				(font
@@ -10725,7 +12461,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c8a100e-1635-4956-925e-a1d6bb158aab")
 		(property "Reference" "D71"
-			(at 320.04 79.375 90)
+			(at 320.04 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10733,8 +12469,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 320.04 81.915 90)
+		(property "Value" "RIGHT_D"
+			(at 320.04 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10742,7 +12478,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 317.5 80.01 0)
 			(effects
 				(font
@@ -10797,6 +12533,94 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 118.11 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f296fd3-7d25-4c08-9430-17f5dd026270")
+		(property "Reference" "D5"
+			(at 120.65 43.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 120.65 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 118.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 118.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 118.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 118.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b624b34b-977f-4c23-9b47-9ab36a445a9b")
+		)
+		(pin "2"
+			(uuid "3ef685e1-047b-490f-b231-05b9befbdd8b")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -10880,7 +12704,7 @@
 		(fields_autoplaced yes)
 		(uuid "729e91fe-f618-4bb5-9868-c06c7578cb62")
 		(property "Reference" "D64"
-			(at 215.9 93.345 90)
+			(at 215.9 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10888,8 +12712,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 215.9 95.885 90)
+		(property "Value" "RIGHT_D"
+			(at 215.9 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10897,7 +12721,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 213.36 93.98 0)
 			(effects
 				(font
@@ -11333,6 +13157,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 66.04 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "805d31cc-d564-42cc-9562-7c348a496c99")
+		(property "Reference" "D1"
+			(at 68.58 43.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 68.58 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 66.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 66.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 66.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61aa24a7-c3f6-43e5-b11f-0d0e6a0b7f34")
+		)
+		(pin "2"
+			(uuid "3779b805-e2c5-4cfd-9d61-e3c5d9f351cf")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 203.2 54.61 0)
 		(unit 1)
@@ -11461,6 +13373,182 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "SW22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 118.11 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "849900f0-92bc-4032-9804-66ef26046bb1")
+		(property "Reference" "D8"
+			(at 120.65 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 120.65 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 118.11 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c5567088-7016-4a40-8716-8ce15b022a2c")
+		)
+		(pin "2"
+			(uuid "19b4525c-a572-4dca-979b-3f7d74e83d2f")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 118.11 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84e9ef5d-04dd-4957-8827-19fc29e07732")
+		(property "Reference" "D6"
+			(at 120.65 57.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 120.65 59.6899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 118.11 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "52fd72f7-ad17-49b0-879f-05402fb5bcc2")
+		)
+		(pin "2"
+			(uuid "6593338a-f2d6-4c08-aa33-db04ca138fe3")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -11617,6 +13705,94 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
+		(at 66.04 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "88940a2c-df55-40c9-aeb7-cb55878abc7c")
+		(property "Reference" "D4"
+			(at 68.58 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 68.58 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e15fff4c-dfd3-4b7d-a54f-4e3f3fee7cfd")
+		)
+		(pin "2"
+			(uuid "d2a86402-c185-4a76-96c1-1a0fc70fbd35")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
 		(at 165.1 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11626,7 +13802,7 @@
 		(fields_autoplaced yes)
 		(uuid "896e6430-aca7-466b-8fc8-9ebbbe85fa58")
 		(property "Reference" "D57"
-			(at 167.64 42.545 90)
+			(at 167.64 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11634,8 +13810,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 167.64 45.085 90)
+		(property "Value" "RIGHT_D"
+			(at 167.64 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11643,7 +13819,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 165.1 43.18 0)
 			(effects
 				(font
@@ -11698,6 +13874,94 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 177.8 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a970a15-0a18-4b66-b691-057820d79801")
+		(property "Reference" "D11"
+			(at 180.34 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 180.34 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 177.8 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09993856-c886-4897-9b22-3c3b16c2b98e")
+		)
+		(pin "2"
+			(uuid "bf9358b2-e475-4ae9-bd61-cc7395d01a0a")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -11781,6 +14045,182 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 328.93 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9547db4d-6f12-4b12-9abf-9739de7afce9")
+		(property "Reference" "D33"
+			(at 331.47 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 331.47 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 328.93 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 328.93 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 328.93 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 328.93 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 328.93 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5aa722d3-16a3-4645-8fce-83dc0da87d55")
+		)
+		(pin "2"
+			(uuid "79dc87aa-2ab4-457f-b789-5255486a4804")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 328.93 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97c5f294-1ee6-452a-b392-b8a5cad67cc2")
+		(property "Reference" "D34"
+			(at 331.47 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 331.47 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 328.93 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 328.93 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 328.93 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 328.93 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 328.93 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "980bb000-8ad5-401d-bef6-c41802320f31")
+		)
+		(pin "2"
+			(uuid "c955607f-af8b-42fa-a025-8f8b8c6b605a")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 307.34 76.2 0)
 		(unit 1)
@@ -11849,6 +14289,94 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
+		(at 224.79 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "990e4461-91f4-432f-af8c-c2f4f0f399ce")
+		(property "Reference" "D26"
+			(at 227.33 78.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 227.33 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 224.79 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 224.79 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 224.79 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 224.79 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 224.79 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97caf712-cf77-463c-97cf-ee5006c977d2")
+		)
+		(pin "2"
+			(uuid "d0304337-2ed6-459b-81e1-bed2f42345de")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
 		(at 54.61 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11858,7 +14386,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1831acb-83f2-4e60-bedb-83facd863fde")
 		(property "Reference" "D50"
-			(at 57.15 57.785 90)
+			(at 57.15 57.1499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11866,8 +14394,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 57.15 60.325 90)
+		(property "Value" "RIGHT_D"
+			(at 57.15 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11875,7 +14403,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 54.61 58.42 0)
 			(effects
 				(font
@@ -11946,7 +14474,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2281362-1f32-4be9-ae9a-21f89ab0b093")
 		(property "Reference" "D70"
-			(at 321.31 56.515 90)
+			(at 321.31 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11954,8 +14482,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 321.31 59.055 90)
+		(property "Value" "RIGHT_D"
+			(at 321.31 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11963,7 +14491,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 318.77 57.15 0)
 			(effects
 				(font
@@ -12266,7 +14794,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab5583f4-4a1c-4c4a-a8ce-eb79d772479e")
 		(property "Reference" "D62"
-			(at 217.17 56.515 90)
+			(at 217.17 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12274,8 +14802,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 217.17 59.055 90)
+		(property "Value" "RIGHT_D"
+			(at 217.17 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12283,7 +14811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 214.63 57.15 0)
 			(effects
 				(font
@@ -12354,7 +14882,7 @@
 		(fields_autoplaced yes)
 		(uuid "aba66de8-e232-4a69-92e4-f4a2e1e486a5")
 		(property "Reference" "D51"
-			(at 57.15 79.375 90)
+			(at 57.15 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12362,8 +14890,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 57.15 81.915 90)
+		(property "Value" "RIGHT_D"
+			(at 57.15 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12371,7 +14899,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 54.61 80.01 0)
 			(effects
 				(font
@@ -12740,7 +15268,7 @@
 		(fields_autoplaced yes)
 		(uuid "bcc00064-8fd0-40ac-b761-dd9d179a2d1b")
 		(property "Reference" "D49"
-			(at 57.15 43.815 90)
+			(at 57.15 43.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12748,8 +15276,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 57.15 46.355 90)
+		(property "Value" "RIGHT_D"
+			(at 57.15 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12757,7 +15285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 54.61 44.45 0)
 			(effects
 				(font
@@ -13039,7 +15567,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2eea582-16bc-4846-9b71-56704fdd6c29")
 		(property "Reference" "D58"
-			(at 167.64 56.515 90)
+			(at 167.64 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13047,8 +15575,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 167.64 59.055 90)
+		(property "Value" "RIGHT_D"
+			(at 167.64 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13056,7 +15584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 165.1 57.15 0)
 			(effects
 				(font
@@ -13195,6 +15723,94 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
+		(at 330.2 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c41f2167-dfee-4611-8ed3-b6de3adb2a22")
+		(property "Reference" "D36"
+			(at 332.74 41.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 332.74 44.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 330.2 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 330.2 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 330.2 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 330.2 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0cbfbe53-6d4a-4d42-b643-c2f101ceb644")
+		)
+		(pin "2"
+			(uuid "4448bd65-e571-49c6-a76c-3d955ed7da9e")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
 		(at 264.16 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13204,7 +15820,7 @@
 		(fields_autoplaced yes)
 		(uuid "c52f46df-56ad-4d46-8b4e-b2e78c06e947")
 		(property "Reference" "D65"
-			(at 266.7 42.545 90)
+			(at 266.7 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13212,8 +15828,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 266.7 45.085 90)
+		(property "Value" "RIGHT_D"
+			(at 266.7 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13221,7 +15837,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 264.16 43.18 0)
 			(effects
 				(font
@@ -13369,7 +15985,7 @@
 		(fields_autoplaced yes)
 		(uuid "c845dfa8-bc51-4b42-bb5e-1e88e6495ab8")
 		(property "Reference" "D69"
-			(at 321.31 42.545 90)
+			(at 321.31 41.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13377,8 +15993,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 321.31 45.085 90)
+		(property "Value" "RIGHT_D"
+			(at 321.31 44.4499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13386,7 +16002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 318.77 43.18 0)
 			(effects
 				(font
@@ -13514,6 +16130,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 276.86 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc1ef209-00ef-4b05-9038-03432492c5af")
+		(property "Reference" "D32"
+			(at 279.4 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 279.4 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 276.86 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 276.86 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 276.86 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 276.86 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 276.86 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e9d798b-0dca-4bb9-95cc-f8300f357e1a")
+		)
+		(pin "2"
+			(uuid "1e77342e-ad60-4261-8f84-9240decabb4a")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 179.07 146.05 0)
 		(unit 1)
@@ -13601,7 +16305,7 @@
 		(fields_autoplaced yes)
 		(uuid "d3e5d649-a9fd-4042-8248-5397f702be5f")
 		(property "Reference" "D63"
-			(at 215.9 79.375 90)
+			(at 215.9 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13609,8 +16313,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 215.9 81.915 90)
+		(property "Value" "RIGHT_D"
+			(at 215.9 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13618,7 +16322,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 213.36 80.01 0)
 			(effects
 				(font
@@ -13894,6 +16598,94 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
+		(at 330.2 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d97113ab-fb4a-484f-9707-d8a2031473c7")
+		(property "Reference" "D35"
+			(at 332.74 55.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 332.74 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 330.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 330.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 330.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 330.2 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cc02babc-b2b1-43fa-bcd0-f32c1a220d6c")
+		)
+		(pin "2"
+			(uuid "7b6f705b-811e-417c-989e-2a5a7cb108b5")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
 		(at 317.5 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13903,7 +16695,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9893ca7-db60-4617-8101-8a92c0570364")
 		(property "Reference" "D72"
-			(at 320.04 93.345 90)
+			(at 320.04 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13911,8 +16703,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 320.04 95.885 90)
+		(property "Value" "RIGHT_D"
+			(at 320.04 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13920,7 +16712,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 317.5 93.98 0)
 			(effects
 				(font
@@ -14224,7 +17016,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
+		(property "Value" "RIGHT_D"
 			(at 109.22 60.325 90)
 			(effects
 				(font
@@ -14234,7 +17026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 106.68 58.42 0)
 			(effects
 				(font
@@ -14660,6 +17452,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 176.53 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e960b580-4645-4812-8f4c-772fc4a015fa")
+		(property "Reference" "D10"
+			(at 179.07 55.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LEFT_D"
+			(at 179.07 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "customs:SOD123_assembly"
+			(at 176.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 176.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 176.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 176.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 176.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "431f024a-6e3b-4300-8b23-c54aab7deb07")
+		)
+		(pin "2"
+			(uuid "a7533976-9d67-4faa-868e-0f7efe79699c")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 245.11 127 0)
 		(unit 1)
@@ -15059,7 +17939,7 @@
 		(fields_autoplaced yes)
 		(uuid "f42e217a-f464-4d38-a974-9a78897c2f94")
 		(property "Reference" "D53"
-			(at 109.22 43.815 90)
+			(at 109.22 43.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15067,8 +17947,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 109.22 46.355 90)
+		(property "Value" "RIGHT_D"
+			(at 109.22 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15076,7 +17956,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 106.68 44.45 0)
 			(effects
 				(font
@@ -15147,7 +18027,7 @@
 		(fields_autoplaced yes)
 		(uuid "f5bce610-b2e4-47af-8d1d-2f61860f7868")
 		(property "Reference" "D60"
-			(at 168.91 93.345 90)
+			(at 168.91 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15155,8 +18035,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NA_D"
-			(at 168.91 95.885 90)
+		(property "Value" "RIGHT_D"
+			(at 168.91 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15164,7 +18044,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom:Diode_TH_SOD123"
+		(property "Footprint" "customs:SOD123_assembly"
 			(at 166.37 93.98 0)
 			(effects
 				(font
