@@ -134,7 +134,7 @@
         "min_track_width": 0.1,
         "min_via_annular_width": 0.05,
         "min_via_annulus": 0.049999999999999996,
-        "min_via_diameter": 0.2,
+        "min_via_diameter": 0.3,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
@@ -519,7 +519,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
