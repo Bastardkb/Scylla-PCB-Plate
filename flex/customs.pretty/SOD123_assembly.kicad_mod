@@ -1,7 +1,7 @@
 (footprint "SOD123_assembly"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf")
 	(tags "CFP3 SOD-123W")
@@ -24,19 +24,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7011c04c-3864-412d-b853-dae3f19eec32")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -69,8 +56,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -2.25 -0.76)
-		(end -2.25 0.76)
+		(start -2.76 -0.76)
+		(end -2.76 0.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -79,8 +66,8 @@
 		(uuid "729fd79f-285f-403e-be6a-b81fcad2e761")
 	)
 	(fp_line
-		(start -2.25 -0.76)
-		(end -1.13 -0.76)
+		(start -2.76 -0.76)
+		(end -0.8 -0.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -89,8 +76,8 @@
 		(uuid "b94f1e70-b47c-49ec-863c-8a0882a9d7a5")
 	)
 	(fp_line
-		(start -2.25 0.76)
-		(end -1.13 0.76)
+		(start -2.76 0.76)
+		(end -0.8 0.76)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -139,8 +126,8 @@
 		(uuid "d7ad1455-a5d4-496c-ad1f-e7b4aece0eff")
 	)
 	(fp_line
-		(start -2.25 -1.1)
-		(end -2.25 1.1)
+		(start -3 -1.1)
+		(end -3 1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -149,8 +136,8 @@
 		(uuid "378df90b-6a64-4d59-8859-8af8790569ec")
 	)
 	(fp_line
-		(start -2.25 -1.1)
-		(end 2.25 -1.1)
+		(start -3 -1.1)
+		(end 2.8 -1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -159,8 +146,8 @@
 		(uuid "eff4dd38-84e2-4b3d-8e0c-136413921459")
 	)
 	(fp_line
-		(start 2.25 -1.1)
-		(end 2.25 1.1)
+		(start 2.8 -1.1)
+		(end 2.8 1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -169,8 +156,8 @@
 		(uuid "e9645f8b-c7e7-40a4-8c61-8a9fd3fc51dc")
 	)
 	(fp_line
-		(start 2.25 1.1)
-		(end -2.25 1.1)
+		(start 2.8 1.1)
+		(end -3 1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -250,17 +237,18 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -1.4 0)
-		(size 1.2 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "ce9054a2-fe12-48a1-8277-195ce9f4e0d1")
+		(at -1.7 0)
+		(size 1.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "243292e3-ad40-4038-8704-5bc60fed7988")
 	)
 	(pad "2" smd rect
-		(at 1.4 0)
-		(size 1.2 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "52451b14-8bf6-4686-970b-6aa5cae2f7ab")
+		(at 1.7 0)
+		(size 1.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c341e17d-a60e-42f1-af91-99d315526433")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_CFP3_SOD-123W.wrl"
 		(offset
 			(xyz 0 0 0)
