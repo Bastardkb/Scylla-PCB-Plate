@@ -1783,6 +1783,12 @@
 		(uuid "e202ffd8-0dda-42e4-a1a7-9a28966934ca")
 	)
 	(junction
+		(at 64.77 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "008fa3fb-6e07-43c4-911f-60ff4f2b9017")
+	)
+	(junction
 		(at 165.1 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2105,6 +2111,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "3e7c85f7-aa2d-4f8a-ba3c-9b98044ece8c")
+	)
+	(junction
+		(at 54.61 224.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f3d10cd-43c9-4ea4-bfe0-be3279a9e17f")
 	)
 	(junction
 		(at 204.47 186.69)
@@ -2509,6 +2521,12 @@
 		(uuid "8e06ba1f-e3ba-4eb9-a10e-887dffd566d6")
 	)
 	(junction
+		(at 64.77 224.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "908ad3b1-96dd-4621-a26a-927b84c780fa")
+	)
+	(junction
 		(at 265.43 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2869,6 +2887,12 @@
 		(uuid "c8da94cf-0544-48b3-8b31-7c25d17e29cd")
 	)
 	(junction
+		(at 53.34 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c905a563-074c-481a-89ca-45dd35e5e518")
+	)
+	(junction
 		(at 214.63 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2885,6 +2909,12 @@
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "cbdcaa78-3bbc-413f-91bf-2709119373ce")
+	)
+	(junction
+		(at 54.61 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cbe9037c-e62e-4f0d-9265-6088635387d4")
 	)
 	(junction
 		(at 193.04 196.85)
@@ -3065,6 +3095,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef4c8f3f-e724-4841-b3ac-e63653559dde")
+	)
+	(junction
+		(at 45.72 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef6073da-83c4-4be9-a00c-deeb2c5cd973")
 	)
 	(junction
 		(at 213.36 90.17)
@@ -5212,6 +5248,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 232.41) (xy 64.77 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80107fd4-b409-4717-afd9-beae213fd6b6")
+	)
+	(wire
+		(pts
 			(xy 208.28 53.34) (xy 208.28 54.61)
 		)
 		(stroke
@@ -5269,6 +5315,16 @@
 			(type default)
 		)
 		(uuid "82850297-8a08-4739-abed-a9a099ac9e24")
+	)
+	(wire
+		(pts
+			(xy 64.77 224.79) (xy 74.93 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8300a0b5-355f-483e-9958-da843393a862")
 	)
 	(wire
 		(pts
@@ -5392,6 +5448,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 124.46) (xy 53.34 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "898e6deb-24a3-4840-bd58-d0fee3f8a451")
+	)
+	(wire
+		(pts
 			(xy 166.37 97.79) (xy 177.8 97.79)
 		)
 		(stroke
@@ -5409,6 +5475,16 @@
 			(type default)
 		)
 		(uuid "8b85a34b-2b75-44b6-9731-068c270e2ff0")
+	)
+	(wire
+		(pts
+			(xy 45.72 124.46) (xy 45.72 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b9a7bfe-4d4f-47e4-b7f5-025bb10cd4f0")
 	)
 	(wire
 		(pts
@@ -5759,6 +5835,16 @@
 			(type solid)
 		)
 		(uuid "9c76aed7-5c32-4b2c-be7e-729f5429cb03")
+	)
+	(wire
+		(pts
+			(xy 54.61 224.79) (xy 64.77 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d752fad-313e-4a15-8ad6-cb6005e89464")
 	)
 	(wire
 		(pts
@@ -6989,6 +7075,16 @@
 			(type default)
 		)
 		(uuid "de27cbc7-d0a2-4b46-bf05-36353826bbf2")
+	)
+	(wire
+		(pts
+			(xy 64.77 232.41) (xy 74.93 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de726092-aad4-4b7e-91ed-d1fabaec6a2b")
 	)
 	(wire
 		(pts
@@ -8532,7 +8628,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0aab397a-7cb4-4e1c-a0b7-660eecea3d4f")
 		(property "Reference" "SW7"
 			(at 43.18 46.99 0)
@@ -8673,7 +8769,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 275.59 57.15 0)
 			(effects
 				(font
@@ -8769,7 +8865,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 224.79 93.98 0)
 			(effects
 				(font
@@ -8884,7 +8980,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "131335b2-03ba-4982-b9f8-e3ce6406e9b5")
 		(property "Reference" "SW23"
 			(at 256.54 83.82 0)
@@ -9280,7 +9376,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 214.63 43.18 0)
 			(effects
 				(font
@@ -9310,7 +9406,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "19854fb4-c5c9-4bdc-a272-2d48b4dbd52d")
 		(property "Reference" "Mousebite7"
@@ -9467,7 +9563,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1a1c5892-72b9-47f9-b045-913af4da41c9")
 		(property "Reference" "Mousebite9"
@@ -9605,7 +9701,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 176.53 43.18 0)
 			(effects
 				(font
@@ -9786,7 +9882,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 118.11 80.01 0)
 			(effects
 				(font
@@ -9967,7 +10063,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 276.86 80.01 0)
 			(effects
 				(font
@@ -10076,13 +10172,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 74.93 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2adcd0f1-db1e-4051-aa8b-fe5086a0db11")
+		(property "Reference" "C5"
+			(at 77.8511 227.4506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "C"
+			(at 77.8511 229.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "libs:C_0603_1608Metric"
+			(at 75.8952 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 74.93 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 74.93 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7aa1f4be-d003-40a3-bc3b-38cfbced0c89")
+		)
+		(pin "2"
+			(uuid "b2c3349e-43fa-4285-8724-0d361ab3b0d9")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 93.98 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2b2491a6-2dcc-4e2a-b283-ed31c3ce5e42")
 		(property "Reference" "SW6"
 			(at 93.98 33.02 0)
@@ -10308,7 +10482,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 177.8 93.98 0)
 			(effects
 				(font
@@ -10423,7 +10597,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "31c3b42c-8283-4ed5-89a3-cd8ae96a5a8a")
 		(property "Reference" "SW15"
 			(at 153.67 68.58 0)
@@ -10564,7 +10738,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 106.68 93.98 0)
 			(effects
 				(font
@@ -10660,7 +10834,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 264.16 57.15 0)
 			(effects
 				(font
@@ -10756,7 +10930,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 66.04 58.42 0)
 			(effects
 				(font
@@ -10852,7 +11026,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 226.06 57.15 0)
 			(effects
 				(font
@@ -10882,7 +11056,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3713fe3e-e331-4621-9b0f-6808026ee7b0")
 		(property "Reference" "SW21"
 			(at 154.94 83.82 0)
@@ -11108,7 +11282,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 106.68 80.01 0)
 			(effects
 				(font
@@ -11204,7 +11378,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 265.43 80.01 0)
 			(effects
 				(font
@@ -11234,7 +11408,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3d13d76c-4319-410c-adc2-74fe92bf8875")
 		(property "Reference" "SW20"
 			(at 95.25 83.82 0)
@@ -11375,7 +11549,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 265.43 93.98 0)
 			(effects
 				(font
@@ -11405,7 +11579,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3ea1c92e-835d-48c9-9139-a6215d9fb3b3")
 		(property "Reference" "J5"
 			(at 378.46 116.84 0)
@@ -11551,7 +11725,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 66.04 80.01 0)
 			(effects
 				(font
@@ -11666,7 +11840,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "43f2a464-323d-45d4-9815-c4e913a1ecb0")
 		(property "Reference" "SW8"
 			(at 93.98 46.99 0)
@@ -11741,7 +11915,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "44fd5504-d084-44ca-b736-b82954508c71")
 		(property "Reference" "SW5"
 			(at 43.18 33.02 0)
@@ -11901,7 +12075,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "476b20bc-df92-4036-9bdb-c618b8acd4fd")
 		(property "Reference" "SW13"
 			(at 43.18 68.58 0)
@@ -12146,7 +12320,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4c08ece1-82de-4a3b-85e9-abe289519645")
 		(property "Reference" "SW2"
 			(at 203.2 31.75 0)
@@ -12372,7 +12546,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 275.59 43.18 0)
 			(effects
 				(font
@@ -12468,7 +12642,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 226.06 43.18 0)
 			(effects
 				(font
@@ -12734,7 +12908,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 166.37 80.01 0)
 			(effects
 				(font
@@ -12764,7 +12938,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "626dff20-7553-45e8-8202-d4917b107399")
 		(property "Reference" "SW12"
 			(at 307.34 46.99 0)
@@ -12905,7 +13079,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 54.61 93.98 0)
 			(effects
 				(font
@@ -12935,7 +13109,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "68e6718d-f57f-4953-b95c-627ec40d659c")
 		(property "Reference" "Mousebite8"
@@ -13092,7 +13266,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6b380582-b646-4ad8-84fa-1244b6786418")
 		(property "Reference" "Mousebite11"
@@ -13315,7 +13489,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 317.5 80.01 0)
 			(effects
 				(font
@@ -13411,7 +13585,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 118.11 44.45 0)
 			(effects
 				(font
@@ -13441,7 +13615,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6fcfd338-cd7e-48f1-be66-8db432af654b")
 		(property "Reference" "SW11"
 			(at 255.27 46.99 0)
@@ -13582,7 +13756,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 213.36 93.98 0)
 			(effects
 				(font
@@ -13612,7 +13786,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "76debf51-ff58-488f-b60b-cbadc50679a8")
 		(property "Reference" "SW1"
 			(at 153.67 31.75 0)
@@ -14093,7 +14267,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 66.04 44.45 0)
 			(effects
 				(font
@@ -14123,7 +14297,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "81acb494-826b-419a-abb1-ba3a10ec7bc2")
 		(property "Reference" "SW10"
 			(at 203.2 46.99 0)
@@ -14198,7 +14372,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "828c5564-31b6-4fae-a800-676ca7373ad8")
 		(property "Reference" "SW22"
 			(at 203.2 83.82 0)
@@ -14339,7 +14513,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 118.11 93.98 0)
 			(effects
 				(font
@@ -14435,7 +14609,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 118.11 58.42 0)
 			(effects
 				(font
@@ -14550,7 +14724,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8565299f-40df-4893-989f-7702ca091106")
 		(property "Reference" "Mousebite10"
@@ -14622,7 +14796,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8575ca0b-a7b4-4fe6-b2e6-6259a3a16356")
 		(property "Reference" "Mousebite4"
@@ -14694,7 +14868,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "86e9b100-0cb2-4e0a-bfe5-e176a6ebe6f5")
 		(property "Reference" "J4"
 			(at 378.46 105.41 0)
@@ -14840,7 +15014,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 66.04 93.98 0)
 			(effects
 				(font
@@ -14936,7 +15110,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 165.1 43.18 0)
 			(effects
 				(font
@@ -15032,7 +15206,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 177.8 80.01 0)
 			(effects
 				(font
@@ -15213,7 +15387,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 328.93 93.98 0)
 			(effects
 				(font
@@ -15309,7 +15483,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 328.93 80.01 0)
 			(effects
 				(font
@@ -15339,7 +15513,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "98abc732-ee8d-432c-81d2-41a103949785")
 		(property "Reference" "SW18"
 			(at 307.34 68.58 0)
@@ -15480,7 +15654,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 224.79 80.01 0)
 			(effects
 				(font
@@ -15498,6 +15672,84 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 64.77 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e67b276-14e2-4026-bac6-c61f50bb945c")
+		(property "Reference" "C4"
+			(at 67.6911 227.4506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "C"
+			(at 67.6911 229.7493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "libs:C_0603_1608Metric"
+			(at 65.7352 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 64.77 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a187ced-c618-44fa-b961-e76bd7e4c91b")
+		)
+		(pin "2"
+			(uuid "5623efa1-b98a-44a9-ad47-229bd4c9e214")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -15576,7 +15828,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 54.61 58.42 0)
 			(effects
 				(font
@@ -15672,7 +15924,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 318.77 57.15 0)
 			(effects
 				(font
@@ -15702,7 +15954,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a43a3629-0581-4a28-b6ed-b6a23369a385")
 		(property "Reference" "J2"
 			(at 364.49 54.61 0)
@@ -15776,6 +16028,81 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 49.53 127 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a468f783-f082-4d6b-b655-7c96b466b0e4")
+		(property "Reference" "R4"
+			(at 49.53 121.7738 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 49.53 124.0725 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "libs:R_0603_1608Metric"
+			(at 49.53 128.778 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22975"
+			(at 49.53 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3602689d-26f9-4661-8eed-7637510cdab0")
+		)
+		(pin "2"
+			(uuid "150e7663-6339-41ae-8d8a-c84e257e1f54")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -16024,7 +16351,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 214.63 57.15 0)
 			(effects
 				(font
@@ -16120,7 +16447,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 54.61 80.01 0)
 			(effects
 				(font
@@ -16150,7 +16477,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "abcb3d6e-1c7a-4f7b-a1b3-5f9307fc1402")
 		(property "Reference" "SW19"
 			(at 43.18 83.82 0)
@@ -16310,7 +16637,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b3ddc4a8-34d6-47f2-8cbc-2c680c510b9e")
 		(property "Reference" "Mousebite3"
@@ -16618,7 +16945,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 54.61 44.45 0)
 			(effects
 				(font
@@ -16648,7 +16975,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bf2b3e23-4161-4860-8f23-b0bb98aec661")
 		(property "Reference" "SW3"
 			(at 254 31.75 0)
@@ -16808,7 +17135,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c1427591-98da-4931-8696-c59dd97eb8be")
 		(property "Reference" "Mousebite1"
@@ -16880,7 +17207,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c2cc244c-05fd-4595-bfa4-5afb84901a1c")
 		(property "Reference" "SW9"
 			(at 153.67 46.99 0)
@@ -17021,7 +17348,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 165.1 57.15 0)
 			(effects
 				(font
@@ -17202,7 +17529,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 330.2 43.18 0)
 			(effects
 				(font
@@ -17298,7 +17625,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 264.16 43.18 0)
 			(effects
 				(font
@@ -17479,7 +17806,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 318.77 43.18 0)
 			(effects
 				(font
@@ -17509,7 +17836,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ca92ed8e-6db8-4702-a7ee-9004e072e174")
 		(property "Reference" "R3"
 			(at 49.53 129.3938 90)
@@ -17650,7 +17977,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 276.86 93.98 0)
 			(effects
 				(font
@@ -17831,7 +18158,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 213.36 80.01 0)
 			(effects
 				(font
@@ -17946,7 +18273,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d64b2934-f457-4b93-a7f4-a560bcf0b76a")
 		(property "Reference" "SW24"
 			(at 308.61 83.82 0)
@@ -18021,7 +18348,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d7463601-c700-474e-879a-50af0d9d946f")
 		(property "Reference" "C3"
 			(at 57.5311 227.4506 0)
@@ -18165,7 +18492,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 330.2 57.15 0)
 			(effects
 				(font
@@ -18261,7 +18588,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 317.5 93.98 0)
 			(effects
 				(font
@@ -18291,7 +18618,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d9e128de-0882-48ea-9c25-ab5d9a81641b")
 		(property "Reference" "SW17"
 			(at 256.54 68.58 0)
@@ -18366,7 +18693,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dc64826e-1c9c-41cd-ba14-731e3bc2581c")
 		(property "Reference" "Mousebite12"
@@ -18523,7 +18850,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e1dc5849-47a0-4cf0-9b32-f18c80b5ceb3")
 		(property "Reference" "J3"
 			(at 364.49 71.12 0)
@@ -18679,7 +19006,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 106.68 58.42 0)
 			(effects
 				(font
@@ -18788,13 +19115,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 49.53 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "e2903a41-ee94-44f2-846f-2ccfd1c56eff")
+		(property "Reference" "R5"
+			(at 49.53 119.2338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 49.53 121.5325 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "libs:R_0603_1608Metric"
+			(at 49.53 126.238 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22975"
+			(at 49.53 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c69be916-dcf0-4b65-b6e0-4db2084c7024")
+		)
+		(pin "2"
+			(uuid "62198ac2-59aa-4e12-848a-c36d98926c0c")
+		)
+		(instances
+			(project "flex"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 307.34 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e2fa6d63-ab13-4805-876a-8e231e724fa0")
 		(property "Reference" "SW4"
 			(at 307.34 31.75 0)
@@ -18954,7 +19356,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e439da9b-9420-48ac-b4b9-ea46f7c61fb0")
 		(property "Reference" "SW16"
 			(at 203.2 68.58 0)
@@ -19114,7 +19516,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e4e29c13-5a01-4825-9ffc-0e8e99f984a6")
 		(property "Reference" "Mousebite5"
@@ -19252,7 +19654,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 176.53 57.15 0)
 			(effects
 				(font
@@ -19452,7 +19854,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ee78fe8c-fb5c-4fdf-aa0b-177539f4ed2a")
 		(property "Reference" "J1"
 			(at 363.22 29.21 0)
@@ -19777,7 +20179,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 106.68 44.45 0)
 			(effects
 				(font
@@ -19873,7 +20275,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C81598"
 			(at 166.37 93.98 0)
 			(effects
 				(font
@@ -19988,7 +20390,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f6349abc-4edd-48fd-a9d4-0c7b6c760936")
 		(property "Reference" "Mousebite2"
@@ -20230,7 +20632,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fb0972d8-1f24-4c0f-9505-77967a22c13b")
 		(property "Reference" "Mousebite6"
@@ -20302,7 +20704,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ff8eafcf-4364-43bd-85d8-5924af2562e9")
 		(property "Reference" "SW14"
 			(at 95.25 68.58 0)
