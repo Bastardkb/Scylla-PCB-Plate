@@ -9836,7 +9836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 246.38 181.61 0)
 			(effects
 				(font
@@ -9902,7 +9902,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 91.44 114.3 0)
 			(effects
 				(font
@@ -10053,7 +10053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 161.29 114.3 0)
 			(effects
 				(font
@@ -10194,7 +10194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 96.52 114.3 0)
 			(effects
 				(font
@@ -10537,7 +10537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 116.84 114.3 0)
 			(effects
 				(font
@@ -10848,7 +10848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 195.58 114.3 0)
 			(effects
 				(font
@@ -11324,7 +11324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 213.36 217.17 0)
 			(effects
 				(font
@@ -11390,7 +11390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 138.43 114.3 0)
 			(effects
 				(font
@@ -11552,7 +11552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 156.21 217.17 0)
 			(effects
 				(font
@@ -11703,7 +11703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 193.04 121.92 0)
 			(effects
 				(font
@@ -12046,7 +12046,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 138.43 217.17 0)
 			(effects
 				(font
@@ -12112,7 +12112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 163.83 181.61 0)
 			(effects
 				(font
@@ -12178,7 +12178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 143.51 114.3 0)
 			(effects
 				(font
@@ -12482,7 +12482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 186.69 114.3 0)
 			(effects
 				(font
@@ -12814,7 +12814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 133.35 114.3 0)
 			(effects
 				(font
@@ -13243,7 +13243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 101.6 114.3 0)
 			(effects
 				(font
@@ -13565,7 +13565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 133.35 217.17 0)
 			(effects
 				(font
@@ -13631,7 +13631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 208.28 181.61 0)
 			(effects
 				(font
@@ -13964,7 +13964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 186.69 121.92 0)
 			(effects
 				(font
@@ -14206,7 +14206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 281.94 121.92 0)
 			(effects
 				(font
@@ -14272,7 +14272,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 327.66 121.92 0)
 			(effects
 				(font
@@ -14669,7 +14669,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 140.97 181.61 0)
 			(effects
 				(font
@@ -15065,7 +15065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 205.74 114.3 0)
 			(effects
 				(font
@@ -15387,7 +15387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 208.28 217.17 0)
 			(effects
 				(font
@@ -15453,7 +15453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 96.52 121.92 0)
 			(effects
 				(font
@@ -15519,7 +15519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 104.14 217.17 0)
 			(effects
 				(font
@@ -15681,7 +15681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 176.53 114.3 0)
 			(effects
 				(font
@@ -15747,7 +15747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 68.58 121.92 0)
 			(effects
 				(font
@@ -15983,7 +15983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 171.45 217.17 0)
 			(effects
 				(font
@@ -16049,7 +16049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 171.45 114.3 0)
 			(effects
 				(font
@@ -16211,7 +16211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 111.76 114.3 0)
 			(effects
 				(font
@@ -16277,7 +16277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 86.36 114.3 0)
 			(effects
 				(font
@@ -16343,7 +16343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 267.97 181.61 0)
 			(effects
 				(font
@@ -16580,7 +16580,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 321.31 121.92 0)
 			(effects
 				(font
@@ -16803,7 +16803,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 166.37 114.3 0)
 			(effects
 				(font
@@ -17719,7 +17719,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 90.17 181.61 0)
 			(effects
 				(font
@@ -17785,7 +17785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 128.27 114.3 0)
 			(effects
 				(font
@@ -17851,7 +17851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 312.42 181.61 0)
 			(effects
 				(font
@@ -18002,7 +18002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 162.56 121.92 0)
 			(effects
 				(font
@@ -18164,7 +18164,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 187.96 217.17 0)
 			(effects
 				(font
@@ -18801,7 +18801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 156.21 114.3 0)
 			(effects
 				(font
@@ -19139,7 +19139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 109.22 217.17 0)
 			(effects
 				(font
@@ -19386,7 +19386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 157.48 181.61 0)
 			(effects
 				(font
@@ -19452,7 +19452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 335.28 181.61 0)
 			(effects
 				(font
@@ -19518,7 +19518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 237.49 121.92 0)
 			(effects
 				(font
@@ -19584,7 +19584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 203.2 217.17 0)
 			(effects
 				(font
@@ -19650,7 +19650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 181.61 114.3 0)
 			(effects
 				(font
@@ -20079,7 +20079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 252.73 181.61 0)
 			(effects
 				(font
@@ -20145,7 +20145,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 96.52 181.61 0)
 			(effects
 				(font
@@ -20211,7 +20211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 119.38 181.61 0)
 			(effects
 				(font
@@ -20355,7 +20355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 229.87 181.61 0)
 			(effects
 				(font
@@ -20517,7 +20517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 93.98 217.17 0)
 			(effects
 				(font
@@ -20679,7 +20679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 298.45 121.92 0)
 			(effects
 				(font
@@ -20906,7 +20906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 123.19 217.17 0)
 			(effects
 				(font
@@ -20972,7 +20972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 185.42 181.61 0)
 			(effects
 				(font
@@ -21123,7 +21123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 113.03 181.61 0)
 			(effects
 				(font
@@ -21466,7 +21466,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 208.28 121.92 0)
 			(effects
 				(font
@@ -21607,7 +21607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 318.77 181.61 0)
 			(effects
 				(font
@@ -21673,7 +21673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 87.63 168.91 0)
 			(effects
 				(font
@@ -21739,7 +21739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 113.03 217.17 0)
 			(effects
 				(font
@@ -21890,7 +21890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 214.63 121.92 0)
 			(effects
 				(font
@@ -21956,7 +21956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 151.13 114.3 0)
 			(effects
 				(font
@@ -22094,7 +22094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 99.06 217.17 0)
 			(effects
 				(font
@@ -22160,7 +22160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 81.28 168.91 0)
 			(effects
 				(font
@@ -22226,7 +22226,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 148.59 217.17 0)
 			(effects
 				(font
@@ -22377,7 +22377,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 179.07 181.61 0)
 			(effects
 				(font
@@ -22443,7 +22443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 297.18 181.61 0)
 			(effects
 				(font
@@ -22594,7 +22594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 106.68 114.3 0)
 			(effects
 				(font
@@ -22756,7 +22756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 200.66 114.3 0)
 			(effects
 				(font
@@ -23225,7 +23225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 198.12 217.17 0)
 			(effects
 				(font
@@ -23291,7 +23291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 121.92 114.3 0)
 			(effects
 				(font
@@ -23442,7 +23442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 274.32 181.61 0)
 			(effects
 				(font
@@ -23700,7 +23700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 118.11 121.92 0)
 			(effects
 				(font
@@ -24203,7 +24203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 118.11 217.17 0)
 			(effects
 				(font
@@ -24269,7 +24269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 140.97 121.92 0)
 			(effects
 				(font
@@ -24335,7 +24335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 254 121.92 0)
 			(effects
 				(font
@@ -24497,7 +24497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 223.52 181.61 0)
 			(effects
 				(font
@@ -24563,7 +24563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 190.5 114.3 0)
 			(effects
 				(font
@@ -24789,7 +24789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 290.83 181.61 0)
 			(effects
 				(font
@@ -24855,7 +24855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 135.89 181.61 0)
 			(effects
 				(font
@@ -25338,7 +25338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 128.27 217.17 0)
 			(effects
 				(font
@@ -25489,7 +25489,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 177.8 217.17 0)
 			(effects
 				(font
@@ -25901,7 +25901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 260.35 121.92 0)
 			(effects
 				(font
@@ -26042,7 +26042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 201.93 181.61 0)
 			(effects
 				(font
@@ -26268,7 +26268,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 166.37 217.17 0)
 			(effects
 				(font
@@ -26419,7 +26419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 134.62 121.92 0)
 			(effects
 				(font
@@ -26557,7 +26557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 304.8 121.92 0)
 			(effects
 				(font
@@ -26623,7 +26623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 182.88 217.17 0)
 			(effects
 				(font
@@ -26785,7 +26785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 143.51 217.17 0)
 			(effects
 				(font
@@ -27021,7 +27021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 168.91 121.92 0)
 			(effects
 				(font
@@ -27346,7 +27346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 111.76 121.92 0)
 			(effects
 				(font
@@ -27412,7 +27412,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 90.17 121.92 0)
 			(effects
 				(font
@@ -27574,7 +27574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 231.14 121.92 0)
 			(effects
 				(font
@@ -28135,7 +28135,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 193.04 217.17 0)
 			(effects
 				(font
@@ -28201,7 +28201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 161.29 217.17 0)
 			(effects
 				(font
@@ -28267,7 +28267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "local-libraries:PinHeader_1x01_P1.27mm_Vertical"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 275.59 121.92 0)
 			(effects
 				(font
