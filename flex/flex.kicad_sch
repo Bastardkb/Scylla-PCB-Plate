@@ -3166,6 +3166,12 @@
 		(uuid "a8f31ac3-e21a-4b56-8d7c-f4ed5eded01c")
 	)
 	(junction
+		(at 326.39 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9324d36-6348-48d5-94de-691110cfd344")
+	)
+	(junction
 		(at 318.77 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14541,7 +14547,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 327.66 121.92 90)
+		(at 326.39 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14549,7 +14555,7 @@
 		(dnp yes)
 		(uuid "4139ea52-602f-4b9b-bd8e-2d3f4decf014")
 		(property "Reference" "J83"
-			(at 326.3899 120.65 0)
+			(at 325.1199 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14558,7 +14564,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Socket"
-			(at 329.184 115.316 0)
+			(at 327.914 115.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14567,7 +14573,7 @@
 			)
 		)
 		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
-			(at 327.66 121.92 0)
+			(at 326.39 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14576,7 +14582,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 327.66 121.92 0)
+			(at 326.39 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14585,7 +14591,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 327.66 121.92 0)
+			(at 326.39 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
