@@ -89400,7 +89400,7 @@
 			)
 		)
 	)
-	(gr_text "3.2E"
+	(gr_text "3.3"
 		(at 150.03 31.93 0)
 		(layer "F.SilkS")
 		(uuid "dfbc8804-b55f-47e2-b66a-640d72ba5b6f")
@@ -89410,7 +89410,7 @@
 				(thickness 0.3)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify left bottom)
 		)
 	)
 	(gr_text "Vcc"
@@ -92408,8 +92408,8 @@
 			)
 		)
 	)
-	(gr_text "3.2E"
-		(at 136.7 32.11 -0)
+	(gr_text "3.3"
+		(at 159.55 31.8 0)
 		(layer "B.SilkS")
 		(uuid "12532323-a26f-44fe-b942-8efb9b97e780")
 		(effects
@@ -92418,7 +92418,7 @@
 				(thickness 0.3)
 				(bold yes)
 			)
-			(justify left bottom)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "C1"
