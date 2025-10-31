@@ -1948,12 +1948,6 @@
 		(uuid "05c4b19c-213e-4129-a922-bd723ccc5c30")
 	)
 	(junction
-		(at 139.7 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05d61958-8c26-4b98-8bf9-07fec668b3e8")
-	)
-	(junction
 		(at 271.78 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2048,12 +2042,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1102a823-1404-4160-96fb-a09cf0336ffd")
-	)
-	(junction
-		(at 294.64 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1241c821-8b91-45bb-a2f8-733383071804")
 	)
 	(junction
 		(at 127 179.07)
@@ -2378,12 +2366,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "453e2881-cde1-4771-bfbe-1a14ed329b77")
-	)
-	(junction
-		(at 36.83 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46f6d543-594e-4315-85d3-33e219c5d909")
 	)
 	(junction
 		(at 212.09 127)
@@ -3166,12 +3148,6 @@
 		(uuid "a8f31ac3-e21a-4b56-8d7c-f4ed5eded01c")
 	)
 	(junction
-		(at 326.39 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9324d36-6348-48d5-94de-691110cfd344")
-	)
-	(junction
 		(at 318.77 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3242,12 +3218,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b369303a-ae44-49ba-86cc-98d359ad5eec")
-	)
-	(junction
-		(at 185.42 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b616cfa2-db2b-4def-a6a3-91ae9c668177")
 	)
 	(junction
 		(at 171.45 212.09)
@@ -3622,12 +3592,6 @@
 		(uuid "e28b77b3-85f7-4791-bd18-95ab7c48f605")
 	)
 	(junction
-		(at 81.28 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e2e23b97-9552-4def-8c28-0c5ea5c617ef")
-	)
-	(junction
 		(at 114.3 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3790,12 +3754,6 @@
 		(uuid "f12f04e7-f2ee-43fd-9b39-5a9dc1ca5c7e")
 	)
 	(junction
-		(at 240.03 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f2384868-c52f-49b3-ae7c-b2420e7320bf")
-	)
-	(junction
 		(at 312.42 119.38)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -3920,16 +3878,6 @@
 			(type default)
 		)
 		(uuid "00ef4764-a663-47b7-b20b-7b58cfaaa565")
-	)
-	(wire
-		(pts
-			(xy 36.83 31.75) (xy 36.83 48.26)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "027f7f65-293a-4256-b472-faf120aa451e")
 	)
 	(wire
 		(pts
@@ -4073,7 +4021,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 29.21) (xy 294.64 31.75)
+			(xy 294.64 29.21) (xy 294.64 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4773,16 +4721,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 31.75) (xy 139.7 46.99)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "2b840516-5c6d-44f6-ba45-52c0c63d1df9")
-	)
-	(wire
-		(pts
 			(xy 138.43 127) (xy 140.97 127)
 		)
 		(stroke
@@ -5293,7 +5231,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 30.48) (xy 36.83 31.75)
+			(xy 36.83 30.48) (xy 36.83 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5483,16 +5421,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 31.75) (xy 294.64 46.99)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "53adf045-e46d-4d6a-8177-cbed5121c1c3")
-	)
-	(wire
-		(pts
 			(xy 223.52 153.67) (xy 245.11 153.67)
 		)
 		(stroke
@@ -5550,16 +5478,6 @@
 			(type default)
 		)
 		(uuid "57ab4e4b-a72c-4ece-8d98-7de3c41aa7a8")
-	)
-	(wire
-		(pts
-			(xy 240.03 31.75) (xy 240.03 46.99)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "586a3706-8b74-432f-bd8a-7326ed4cd1b7")
 	)
 	(wire
 		(pts
@@ -6053,16 +5971,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 31.75) (xy 81.28 48.26)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "742b4b69-7711-4089-9330-0b582e7fe5a9")
-	)
-	(wire
-		(pts
 			(xy 267.97 153.67) (xy 289.56 153.67)
 		)
 		(stroke
@@ -6423,7 +6331,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 29.21) (xy 240.03 31.75)
+			(xy 240.03 29.21) (xy 240.03 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7030,16 +6938,6 @@
 			(type solid)
 		)
 		(uuid "a1087755-e351-440c-9800-98a453e86e7d")
-	)
-	(wire
-		(pts
-			(xy 185.42 31.75) (xy 185.42 46.99)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "a1402585-a8c0-46f6-b0fb-88214fbf25b6")
 	)
 	(wire
 		(pts
@@ -8653,7 +8551,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 30.48) (xy 139.7 31.75)
+			(xy 139.7 30.48) (xy 139.7 46.99)
 		)
 		(stroke
 			(width 0)
@@ -8693,7 +8591,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 30.48) (xy 81.28 31.75)
+			(xy 81.28 30.48) (xy 81.28 48.26)
 		)
 		(stroke
 			(width 0)
@@ -8883,7 +8781,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 30.48) (xy 185.42 31.75)
+			(xy 185.42 30.48) (xy 185.42 46.99)
 		)
 		(stroke
 			(width 0)
@@ -9938,7 +9836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 246.38 181.61 0)
 			(effects
 				(font
@@ -10004,7 +9902,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 91.44 114.3 0)
 			(effects
 				(font
@@ -10038,138 +9936,6 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 245.11 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "02a54430-418d-47b0-bb9b-191dc08c4c7c")
-		(property "Reference" "J113"
-			(at 246.38 30.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Socket"
-			(at 251.714 33.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
-			(at 245.11 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 245.11 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7b8d3dda-4dee-4292-afd7-f12b32890a61")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 41.91 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "045c374b-57fb-4c73-b3aa-97be71aa27a9")
-		(property "Reference" "J109"
-			(at 43.18 30.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Socket"
-			(at 48.514 33.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
-			(at 41.91 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.91 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 41.91 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dc2ddeb1-b303-400c-a463-8d029dd9d5f3")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J109")
 					(unit 1)
 				)
 			)
@@ -10287,7 +10053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 161.29 114.3 0)
 			(effects
 				(font
@@ -10428,7 +10194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 96.52 114.3 0)
 			(effects
 				(font
@@ -10462,72 +10228,6 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 299.72 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "0bdb893a-06b7-486e-b75b-8283361e1f71")
-		(property "Reference" "J114"
-			(at 300.99 30.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Socket"
-			(at 306.324 33.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
-			(at 299.72 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 299.72 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 299.72 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4d6c6d99-b13b-48ef-b380-0e8503d1b5ac")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J114")
 					(unit 1)
 				)
 			)
@@ -10837,7 +10537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 116.84 114.3 0)
 			(effects
 				(font
@@ -11148,7 +10848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 195.58 114.3 0)
 			(effects
 				(font
@@ -11624,7 +11324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 213.36 217.17 0)
 			(effects
 				(font
@@ -11690,7 +11390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 138.43 114.3 0)
 			(effects
 				(font
@@ -11852,7 +11552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 156.21 217.17 0)
 			(effects
 				(font
@@ -12003,7 +11703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 193.04 121.92 0)
 			(effects
 				(font
@@ -12346,7 +12046,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 138.43 217.17 0)
 			(effects
 				(font
@@ -12412,7 +12112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 163.83 181.61 0)
 			(effects
 				(font
@@ -12478,7 +12178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 143.51 114.3 0)
 			(effects
 				(font
@@ -12782,7 +12482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 186.69 114.3 0)
 			(effects
 				(font
@@ -13114,7 +12814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 133.35 114.3 0)
 			(effects
 				(font
@@ -13543,7 +13243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 101.6 114.3 0)
 			(effects
 				(font
@@ -13865,7 +13565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 133.35 217.17 0)
 			(effects
 				(font
@@ -13931,7 +13631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 208.28 181.61 0)
 			(effects
 				(font
@@ -14264,7 +13964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 186.69 121.92 0)
 			(effects
 				(font
@@ -14506,7 +14206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 281.94 121.92 0)
 			(effects
 				(font
@@ -14547,7 +14247,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 326.39 121.92 90)
+		(at 327.66 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14555,7 +14255,7 @@
 		(dnp yes)
 		(uuid "4139ea52-602f-4b9b-bd8e-2d3f4decf014")
 		(property "Reference" "J83"
-			(at 325.1199 120.65 0)
+			(at 326.3899 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14564,7 +14264,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Socket"
-			(at 327.914 115.316 0)
+			(at 329.184 115.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14572,8 +14272,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
-			(at 326.39 121.92 0)
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
+			(at 327.66 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14582,7 +14282,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 326.39 121.92 0)
+			(at 327.66 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14591,7 +14291,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 326.39 121.92 0)
+			(at 327.66 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14969,7 +14669,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 140.97 181.61 0)
 			(effects
 				(font
@@ -15365,7 +15065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 205.74 114.3 0)
 			(effects
 				(font
@@ -15687,7 +15387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 208.28 217.17 0)
 			(effects
 				(font
@@ -15753,7 +15453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 96.52 121.92 0)
 			(effects
 				(font
@@ -15819,7 +15519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 104.14 217.17 0)
 			(effects
 				(font
@@ -15981,7 +15681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 176.53 114.3 0)
 			(effects
 				(font
@@ -16047,7 +15747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 68.58 121.92 0)
 			(effects
 				(font
@@ -16283,7 +15983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 171.45 217.17 0)
 			(effects
 				(font
@@ -16349,7 +16049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 171.45 114.3 0)
 			(effects
 				(font
@@ -16511,7 +16211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 111.76 114.3 0)
 			(effects
 				(font
@@ -16577,7 +16277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 86.36 114.3 0)
 			(effects
 				(font
@@ -16643,7 +16343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 267.97 181.61 0)
 			(effects
 				(font
@@ -16880,7 +16580,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 321.31 121.92 0)
 			(effects
 				(font
@@ -16986,72 +16686,6 @@
 			(project "flex"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "Mousebite8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 86.36 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "6935c706-ccf5-446b-b902-e0e2815b2b21")
-		(property "Reference" "J110"
-			(at 87.63 30.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Socket"
-			(at 92.964 33.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
-			(at 86.36 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 86.36 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9118a234-ebcc-46f6-9723-d8686ad74c00")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J110")
 					(unit 1)
 				)
 			)
@@ -17169,7 +16803,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 166.37 114.3 0)
 			(effects
 				(font
@@ -18085,7 +17719,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 90.17 181.61 0)
 			(effects
 				(font
@@ -18151,7 +17785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 128.27 114.3 0)
 			(effects
 				(font
@@ -18217,7 +17851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 312.42 181.61 0)
 			(effects
 				(font
@@ -18368,7 +18002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 162.56 121.92 0)
 			(effects
 				(font
@@ -18530,7 +18164,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 187.96 217.17 0)
 			(effects
 				(font
@@ -19167,7 +18801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 156.21 114.3 0)
 			(effects
 				(font
@@ -19505,7 +19139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 109.22 217.17 0)
 			(effects
 				(font
@@ -19752,7 +19386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 157.48 181.61 0)
 			(effects
 				(font
@@ -19818,7 +19452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 335.28 181.61 0)
 			(effects
 				(font
@@ -19884,7 +19518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 237.49 121.92 0)
 			(effects
 				(font
@@ -19950,7 +19584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 203.2 217.17 0)
 			(effects
 				(font
@@ -20016,7 +19650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 181.61 114.3 0)
 			(effects
 				(font
@@ -20445,7 +20079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 252.73 181.61 0)
 			(effects
 				(font
@@ -20511,7 +20145,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 96.52 181.61 0)
 			(effects
 				(font
@@ -20577,7 +20211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 119.38 181.61 0)
 			(effects
 				(font
@@ -20721,7 +20355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 229.87 181.61 0)
 			(effects
 				(font
@@ -20883,7 +20517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 93.98 217.17 0)
 			(effects
 				(font
@@ -21045,7 +20679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 298.45 121.92 0)
 			(effects
 				(font
@@ -21272,7 +20906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 123.19 217.17 0)
 			(effects
 				(font
@@ -21338,7 +20972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 185.42 181.61 0)
 			(effects
 				(font
@@ -21489,7 +21123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 113.03 181.61 0)
 			(effects
 				(font
@@ -21832,7 +21466,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 208.28 121.92 0)
 			(effects
 				(font
@@ -21973,7 +21607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 318.77 181.61 0)
 			(effects
 				(font
@@ -22039,7 +21673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 87.63 168.91 0)
 			(effects
 				(font
@@ -22105,7 +21739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 113.03 217.17 0)
 			(effects
 				(font
@@ -22256,7 +21890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 214.63 121.92 0)
 			(effects
 				(font
@@ -22322,7 +21956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 151.13 114.3 0)
 			(effects
 				(font
@@ -22460,7 +22094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 99.06 217.17 0)
 			(effects
 				(font
@@ -22526,7 +22160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 81.28 168.91 0)
 			(effects
 				(font
@@ -22592,7 +22226,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 148.59 217.17 0)
 			(effects
 				(font
@@ -22743,7 +22377,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 179.07 181.61 0)
 			(effects
 				(font
@@ -22809,7 +22443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 297.18 181.61 0)
 			(effects
 				(font
@@ -22960,7 +22594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 106.68 114.3 0)
 			(effects
 				(font
@@ -23122,7 +22756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 200.66 114.3 0)
 			(effects
 				(font
@@ -23591,7 +23225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 198.12 217.17 0)
 			(effects
 				(font
@@ -23657,7 +23291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 121.92 114.3 0)
 			(effects
 				(font
@@ -23808,7 +23442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 274.32 181.61 0)
 			(effects
 				(font
@@ -24066,7 +23700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 118.11 121.92 0)
 			(effects
 				(font
@@ -24569,7 +24203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 118.11 217.17 0)
 			(effects
 				(font
@@ -24635,7 +24269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 140.97 121.92 0)
 			(effects
 				(font
@@ -24701,7 +24335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 254 121.92 0)
 			(effects
 				(font
@@ -24863,7 +24497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 223.52 181.61 0)
 			(effects
 				(font
@@ -24929,7 +24563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_VCC"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 190.5 114.3 0)
 			(effects
 				(font
@@ -25155,7 +24789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 290.83 181.61 0)
 			(effects
 				(font
@@ -25221,7 +24855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 135.89 181.61 0)
 			(effects
 				(font
@@ -25704,7 +25338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 128.27 217.17 0)
 			(effects
 				(font
@@ -25855,7 +25489,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 177.8 217.17 0)
 			(effects
 				(font
@@ -26267,7 +25901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 260.35 121.92 0)
 			(effects
 				(font
@@ -26408,7 +26042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 201.93 181.61 0)
 			(effects
 				(font
@@ -26634,7 +26268,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 166.37 217.17 0)
 			(effects
 				(font
@@ -26785,7 +26419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 134.62 121.92 0)
 			(effects
 				(font
@@ -26923,7 +26557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 304.8 121.92 0)
 			(effects
 				(font
@@ -26989,7 +26623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 182.88 217.17 0)
 			(effects
 				(font
@@ -27151,7 +26785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 143.51 217.17 0)
 			(effects
 				(font
@@ -27387,7 +27021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_IN"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 168.91 121.92 0)
 			(effects
 				(font
@@ -27601,72 +27235,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 190.5 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "f10c70d3-4914-4c76-9406-c4ba0f5e071c")
-		(property "Reference" "J112"
-			(at 191.77 30.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Socket"
-			(at 197.104 33.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
-			(at 190.5 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 190.5 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 190.5 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec7eedcf-2440-4477-9aa1-d1b1aa2f77c6")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J112")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812MINI")
 		(at 237.49 186.69 0)
 		(unit 1)
@@ -27778,7 +27346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 111.76 121.92 0)
 			(effects
 				(font
@@ -27819,72 +27387,6 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 144.78 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "f3503a04-5b80-4b0c-8605-074f5a4db9b1")
-		(property "Reference" "J111"
-			(at 146.05 30.4799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Socket"
-			(at 151.384 33.274 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
-			(at 144.78 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 144.78 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 144.78 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ac483f84-e13a-4b82-b077-cf85e17c99cf")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J111")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
 		(at 90.17 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27910,7 +27412,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 90.17 121.92 0)
 			(effects
 				(font
@@ -28072,7 +27574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 231.14 121.92 0)
 			(effects
 				(font
@@ -28535,72 +28037,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 31.75 31.75 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "fa940d75-6996-4bee-803d-24540d319022")
-		(property "Reference" "J115"
-			(at 30.48 33.0201 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Socket"
-			(at 25.146 30.226 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
-			(at 31.75 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 31.75 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 31.75 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "161a307c-3b18-44cb-88ef-573518d33302")
-		)
-		(instances
-			(project "flex"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J115")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "customs:mousebite")
 		(at 379.73 234.95 0)
 		(unit 1)
@@ -28699,7 +28135,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 193.04 217.17 0)
 			(effects
 				(font
@@ -28765,7 +28201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_GND"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 161.29 217.17 0)
 			(effects
 				(font
@@ -28831,7 +28267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical_OUT"
+		(property "Footprint" "custom:PinHeader_1x01_P1.27mm_Vertical"
 			(at 275.59 121.92 0)
 			(effects
 				(font
